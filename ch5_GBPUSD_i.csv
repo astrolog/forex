@@ -1,9 +1,4 @@
 date,P_Kweek_3_Kday_0_ETE_74_ORD_73_EXT_85_E2Ekor_84_EXTkor_74_DIFF_26,a,b,c,d,e
-Wed Feb 25 04:00:00 UTC 2026,1.35124,1894.0,null,null,null,null
-Wed Feb 25 05:00:00 UTC 2026,1.35166,1930.0,null,null,null,null
-Wed Feb 25 06:00:00 UTC 2026,1.35213,2034.0,null,null,null,null
-Wed Feb 25 07:00:00 UTC 2026,1.35254,1848.0,null,null,null,null
-Wed Feb 25 08:00:00 UTC 2026,1.35263,1258.0,null,null,null,null
 Wed Feb 25 09:00:00 UTC 2026,1.35161,1519.0,null,null,null,null
 Wed Feb 25 10:00:00 UTC 2026,1.35173,1334.0,null,null,null,null
 Wed Feb 25 11:00:00 UTC 2026,1.35109,1651.0,null,null,null,null
@@ -312,3 +307,8 @@ Mon Mar 16 02:00:00 UTC 2026,781.0,null,null,null,null,null
 Mon Mar 16 03:00:00 UTC 2026,709.0,null,null,null,null,null
 Mon Mar 16 04:00:00 UTC 2026,543.0,null,null,null,null,null
 Mon Mar 16 05:00:00 UTC 2026,528.0,null,null,null,null,null
+Mon Mar 16 06:00:00 UTC 2026,345.0,null,null,null,null,null
+Mon Mar 16 07:00:00 UTC 2026,195.0,null,null,null,null,null
+Mon Mar 16 08:00:00 UTC 2026,150.0,null,null,null,null,null
+Mon Mar 16 09:00:00 UTC 2026,77.0,null,null,null,null,null
+Mon Mar 16 10:00:00 UTC 2026,-14.0,null,null,null,null,null
