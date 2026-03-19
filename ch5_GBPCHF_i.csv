@@ -1,5 +1,4 @@
-date,P_Kweek_84_Kday_53_ETE_68_ORD_68_EXT_83_E2Ekor_88_EXTkor_73_DIFF_22,a,b,c,d,e
-Sun Mar 15 04:00:00 UTC 2026,1.04566,1.6499999999941792,null,null,null,null
+date,P_Kweek_85_Kday_47_ETE_68_ORD_68_EXT_83_E2Ekor_88_EXTkor_73_DIFF_22,a,b,c,d,e
 Sun Mar 15 05:00:00 UTC 2026,1.04566,1.6499999999941792,null,null,null,null
 Sun Mar 15 06:00:00 UTC 2026,1.04566,1.6499999999941792,null,null,null,null
 Sun Mar 15 07:00:00 UTC 2026,1.04566,1.6499999999941792,null,null,null,null
@@ -95,7 +94,7 @@ Thu Mar 19 00:00:00 UTC 2026,1.05043,5902.649999999994,null,null,null,null
 Thu Mar 19 01:00:00 UTC 2026,1.05043,5943.649999999994,null,null,null,null
 Thu Mar 19 02:00:00 UTC 2026,1.05043,5608.649999999994,null,null,null,null
 Thu Mar 19 03:00:00 UTC 2026,1.05043,5694.649999999994,null,null,null,null
-Thu Mar 19 04:00:00 UTC 2026,5577.649999999994,null,null,null,null,null
+Thu Mar 19 04:00:00 UTC 2026,1.05043,5577.649999999994,null,null,null,null
 Thu Mar 19 05:00:00 UTC 2026,5214.649999999994,null,null,null,null,null
 Thu Mar 19 06:00:00 UTC 2026,5761.649999999994,null,null,null,null,null
 Thu Mar 19 07:00:00 UTC 2026,5583.649999999994,null,null,null,null,null
@@ -457,3 +456,4 @@ Fri Apr 03 02:00:00 UTC 2026,4202.649999999994,null,null,null,null,null
 Fri Apr 03 03:00:00 UTC 2026,4445.649999999994,null,null,null,null,null
 Fri Apr 03 04:00:00 UTC 2026,4665.649999999994,null,null,null,null,null
 Fri Apr 03 05:00:00 UTC 2026,4403.649999999994,null,null,null,null,null
+Fri Apr 03 06:00:00 UTC 2026,4257.649999999994,null,null,null,null,null
