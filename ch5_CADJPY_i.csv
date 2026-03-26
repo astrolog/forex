@@ -1,6 +1,4 @@
-date,P_Kweek_0_Kday_-15_ETE_64_ORD_61_EXT_74_E2Ekor_74_EXTkor_64_DIFF_26,a,b,c,d,e
-Sun Mar 22 00:00:00 UTC 2026,116.02396,82.68499999999767,null,null,null,null
-Sun Mar 22 01:00:00 UTC 2026,116.0588,82.68499999999767,null,null,null,null
+date,P_Kweek_-4_Kday_0_ETE_64_ORD_61_EXT_74_E2Ekor_74_EXTkor_64_DIFF_26,a,b,c,d,e
 Sun Mar 22 02:00:00 UTC 2026,116.02644,82.68499999999767,null,null,null,null
 Sun Mar 22 03:00:00 UTC 2026,116.04484,82.68499999999767,null,null,null,null
 Sun Mar 22 04:00:00 UTC 2026,116.05942,82.68499999999767,null,null,null,null
@@ -90,13 +88,13 @@ Wed Mar 25 15:00:00 UTC 2026,115.3337,196.68499999999767,null,null,null,null
 Wed Mar 25 16:00:00 UTC 2026,115.36105,292.6849999999977,null,null,null,null
 Wed Mar 25 17:00:00 UTC 2026,115.41937,269.6849999999977,null,null,null,null
 Wed Mar 25 18:00:00 UTC 2026,115.40403,97.68499999999767,null,null,null,null
-Wed Mar 25 19:00:00 UTC 2026,115.4534,127.68499999999767,NaN,null,null,null
+Wed Mar 25 19:00:00 UTC 2026,115.4534,127.68499999999767,NaN,null,null,NaN
 Wed Mar 25 20:00:00 UTC 2026,115.15813,109.68499999999767,null,null,null,null
 Wed Mar 25 21:00:00 UTC 2026,115.2072,23.68499999999767,null,null,null,null
 Wed Mar 25 22:00:00 UTC 2026,115.18022,-31.31500000000233,null,null,null,null
 Wed Mar 25 23:00:00 UTC 2026,115.1555,-136.31500000000233,null,null,null,null
-Thu Mar 26 00:00:00 UTC 2026,-41.31500000000233,null,null,null,null,null
-Thu Mar 26 01:00:00 UTC 2026,8.684999999997672,null,null,null,null,null
+Thu Mar 26 00:00:00 UTC 2026,115.34024,-41.31500000000233,null,null,null,null
+Thu Mar 26 01:00:00 UTC 2026,115.40444,8.684999999997672,null,null,null,null
 Thu Mar 26 02:00:00 UTC 2026,17.68499999999767,null,null,null,null,null
 Thu Mar 26 03:00:00 UTC 2026,17.68499999999767,null,null,null,null,null
 Thu Mar 26 04:00:00 UTC 2026,-61.31500000000233,null,null,null,null,null
@@ -457,3 +455,5 @@ Thu Apr 09 22:00:00 UTC 2026,356.6849999999977,null,null,null,null,null
 Thu Apr 09 23:00:00 UTC 2026,362.6849999999977,null,null,null,null,null
 Fri Apr 10 00:00:00 UTC 2026,321.6849999999977,null,null,null,null,null
 Fri Apr 10 01:00:00 UTC 2026,251.68499999999767,null,null,null,null,null
+Fri Apr 10 02:00:00 UTC 2026,372.6849999999977,null,null,null,null,null
+Fri Apr 10 03:00:00 UTC 2026,359.6849999999977,null,null,null,null,null
