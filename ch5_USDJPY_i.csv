@@ -1,6 +1,4 @@
-date,P_Kweek_35_Kday_-8_ETE_59_ORD_60_EXT_71_E2Ekor_65_EXTkor_54_DIFF_26,a,b,c,d,e
-Sun Mar 22 10:00:00 UTC 2026,159.23602,87.02999999999884,null,null,null,null
-Sun Mar 22 11:00:00 UTC 2026,159.24017,87.02999999999884,null,null,null,null
+date,P_Kweek_39_Kday_-27_ETE_59_ORD_60_EXT_71_E2Ekor_65_EXTkor_54_DIFF_26,a,b,c,d,e
 Sun Mar 22 12:00:00 UTC 2026,159.23446,87.02999999999884,null,null,null,null
 Sun Mar 22 13:00:00 UTC 2026,159.23947,87.02999999999884,null,null,null,null
 Sun Mar 22 14:00:00 UTC 2026,159.2353,87.02999999999884,null,null,null,null
@@ -94,9 +92,9 @@ Thu Mar 26 05:00:00 UTC 2026,159.25426,307.02999999999884,null,null,null,null
 Thu Mar 26 06:00:00 UTC 2026,159.42868,335.02999999999884,null,null,null,null
 Thu Mar 26 07:00:00 UTC 2026,159.47843,328.02999999999884,null,null,null,null
 Thu Mar 26 08:00:00 UTC 2026,159.47127,350.02999999999884,null,null,null,null
-Thu Mar 26 09:00:00 UTC 2026,159.47127,433.02999999999884,null,null,null,null
-Thu Mar 26 10:00:00 UTC 2026,418.02999999999884,null,null,null,null,null
-Thu Mar 26 11:00:00 UTC 2026,383.02999999999884,null,null,null,null,null
+Thu Mar 26 09:00:00 UTC 2026,159.40726,433.02999999999884,null,null,null,null
+Thu Mar 26 10:00:00 UTC 2026,159.41534,418.02999999999884,null,null,null,null
+Thu Mar 26 11:00:00 UTC 2026,159.39789,383.02999999999884,null,null,null,null
 Thu Mar 26 12:00:00 UTC 2026,395.02999999999884,null,null,null,null,null
 Thu Mar 26 13:00:00 UTC 2026,440.02999999999884,null,null,null,null,null
 Thu Mar 26 14:00:00 UTC 2026,472.02999999999884,null,null,null,null,null
@@ -457,3 +455,5 @@ Fri Apr 10 08:00:00 UTC 2026,608.0299999999988,null,null,null,null,null
 Fri Apr 10 09:00:00 UTC 2026,594.0299999999988,null,null,null,null,null
 Fri Apr 10 10:00:00 UTC 2026,622.0299999999988,null,null,null,null,null
 Fri Apr 10 11:00:00 UTC 2026,651.0299999999988,null,null,null,null,null
+Fri Apr 10 12:00:00 UTC 2026,667.0299999999988,null,null,null,null,null
+Fri Apr 10 13:00:00 UTC 2026,661.0299999999988,null,null,null,null,null
