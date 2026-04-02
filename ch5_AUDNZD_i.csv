@@ -1,7 +1,4 @@
-date,P_Kweek_80_Kday_19_ETE_69_ORD_64_EXT_76_E2Ekor_71_EXTkor_66_DIFF_29,a,b,c,d,e
-Sun Mar 29 04:00:00 UTC 2026,1.19462,1.271550000001298,null,null,null,null
-Sun Mar 29 05:00:00 UTC 2026,1.19567,1.271550000001298,null,null,null,null
-Sun Mar 29 06:00:00 UTC 2026,1.196,1.271550000001298,null,null,null,null
+date,P_Kweek_82_Kday_14_ETE_69_ORD_64_EXT_76_E2Ekor_71_EXTkor_66_DIFF_29,a,b,c,d,e
 Sun Mar 29 07:00:00 UTC 2026,1.19568,1.271550000001298,null,null,null,null
 Sun Mar 29 08:00:00 UTC 2026,1.19652,1.271550000001298,null,null,null,null
 Sun Mar 29 09:00:00 UTC 2026,1.19637,1.271550000001298,null,null,null,null
@@ -95,9 +92,9 @@ Thu Apr 02 00:00:00 UTC 2026,1.20442,477.27154999999766,null,null,null,null
 Thu Apr 02 01:00:00 UTC 2026,1.20449,435.27154999999766,null,null,null,null
 Thu Apr 02 02:00:00 UTC 2026,1.20395,350.27154999999766,null,null,null,null
 Thu Apr 02 03:00:00 UTC 2026,1.20357,494.27154999999766,null,null,null,null
-Thu Apr 02 04:00:00 UTC 2026,407.27154999999766,null,null,null,null,null
-Thu Apr 02 05:00:00 UTC 2026,604.2715499999977,null,null,null,null,null
-Thu Apr 02 06:00:00 UTC 2026,544.2715499999977,null,null,null,null,null
+Thu Apr 02 04:00:00 UTC 2026,1.20333,407.27154999999766,null,null,null,null
+Thu Apr 02 05:00:00 UTC 2026,1.20369,604.2715499999977,null,null,null,null
+Thu Apr 02 06:00:00 UTC 2026,1.2039,544.2715499999977,null,null,null,null
 Thu Apr 02 07:00:00 UTC 2026,562.2715499999977,null,null,null,null,null
 Thu Apr 02 08:00:00 UTC 2026,500.27154999999766,null,null,null,null,null
 Thu Apr 02 09:00:00 UTC 2026,614.2715499999977,null,null,null,null,null
@@ -457,3 +454,6 @@ Fri Apr 17 02:00:00 UTC 2026,874.2715499999977,null,null,null,null,null
 Fri Apr 17 03:00:00 UTC 2026,887.2715499999977,null,null,null,null,null
 Fri Apr 17 04:00:00 UTC 2026,869.2715499999977,null,null,null,null,null
 Fri Apr 17 05:00:00 UTC 2026,803.2715499999977,null,null,null,null,null
+Fri Apr 17 06:00:00 UTC 2026,871.2715499999977,null,null,null,null,null
+Fri Apr 17 07:00:00 UTC 2026,955.2715499999977,null,null,null,null,null
+Fri Apr 17 08:00:00 UTC 2026,872.2715499999977,null,null,null,null,null
