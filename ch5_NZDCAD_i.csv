@@ -1,7 +1,7 @@
-date,P_Kweek_39_Kday_0_ETE_5_ORD_6_EXT_6_E2Ekor_90_EXTkor_26_DIFF_4,a,b,c,d,e
+date,P_Kweek_-39_Kday_55_ETE_24_ORD_29_EXT_29_E2Ekor_73_EXTkor_38_DIFF_19,a,b,c,d,e
 Mon Mar 30 01:00:00 UTC 2026,0.79796,0.7566799999999603,null,null,null,null
 Mon Mar 30 02:00:00 UTC 2026,0.80041,0.7566799999999603,null,null,null,null
-Mon Mar 30 03:00:00 UTC 2026,0.80144,0.7566799999999603,null,null,null,null
+Mon Mar 30 03:00:00 UTC 2026,0.80144,520.75668,null,null,null,null
 Mon Mar 30 04:00:00 UTC 2026,0.80033,0.7566799999999603,null,null,null,null
 Mon Mar 30 05:00:00 UTC 2026,0.79825,0.7566799999999603,null,null,null,null
 Mon Mar 30 06:00:00 UTC 2026,0.79933,0.7566799999999603,null,null,null,null
@@ -64,15 +64,15 @@ Wed Apr 01 14:00:00 UTC 2026,0.79779,0.7566799999999603,null,null,null,null
 Wed Apr 01 15:00:00 UTC 2026,0.79737,0.7566799999999603,null,null,null,null
 Wed Apr 01 16:00:00 UTC 2026,0.79802,130.75667999999996,null,null,null,null
 Wed Apr 01 17:00:00 UTC 2026,0.79866,130.75667999999996,null,null,null,null
-Wed Apr 01 18:00:00 UTC 2026,0.80163,130.75667999999996,null,null,null,null
+Wed Apr 01 18:00:00 UTC 2026,0.80163,650.75668,null,null,null,null
 Wed Apr 01 19:00:00 UTC 2026,0.80006,130.75667999999996,null,null,null,null
 Wed Apr 01 20:00:00 UTC 2026,0.80073,130.75667999999996,null,null,null,null
 Wed Apr 01 21:00:00 UTC 2026,0.80089,130.75667999999996,null,null,null,null
-Wed Apr 01 22:00:00 UTC 2026,0.80145,130.75667999999996,null,null,null,null
-Wed Apr 01 23:00:00 UTC 2026,0.80212,130.75667999999996,null,null,null,null
+Wed Apr 01 22:00:00 UTC 2026,0.80145,650.75668,null,null,null,null
+Wed Apr 01 23:00:00 UTC 2026,0.80212,650.75668,null,null,null,null
 Thu Apr 02 00:00:00 UTC 2026,0.80061,130.75667999999996,null,null,null,null
-Thu Apr 02 01:00:00 UTC 2026,0.80109,130.75667999999996,null,null,null,null
-Thu Apr 02 02:00:00 UTC 2026,0.80099,130.75667999999996,null,null,null,null
+Thu Apr 02 01:00:00 UTC 2026,0.80109,650.75668,null,null,null,null
+Thu Apr 02 02:00:00 UTC 2026,0.80099,650.75668,null,null,null,null
 Thu Apr 02 03:00:00 UTC 2026,0.80064,130.75667999999996,null,null,null,null
 Thu Apr 02 04:00:00 UTC 2026,0.80092,130.75667999999996,null,null,null,null
 Thu Apr 02 05:00:00 UTC 2026,0.79979,130.75667999999996,null,null,null,null
