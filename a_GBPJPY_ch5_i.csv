@@ -1,5 +1,4 @@
-date,P_Kweek_44_Kday_72_ETE_69_ORD_65_EXT_64_E2Ekor_56_EXTkor_57_DIFF_32,a,b,c,d,e,f,g,h,i,j
-Mon May 04 02:00:00 UTC 2026,145.1568283154221,186.63300000000163,275.96633333333494,375.96633333333494,null,null,786.6330000000016,886.6330000000016,986.6330000000016,null
+date,P_Kweek_44_Kday_77_ETE_69_ORD_65_EXT_64_E2Ekor_56_EXTkor_57_DIFF_32,a,b,c,d,e,f,g,h,i,j
 Mon May 04 03:00:00 UTC 2026,164.78650093239787,186.63300000000163,276.4511818181834,376.45118181818344,null,null,786.6330000000016,886.6330000000016,null,null
 Mon May 04 04:00:00 UTC 2026,162.54689462770176,218.63300000000163,276.93603030303194,376.93603030303194,null,null,786.6330000000017,886.6330000000016,null,null
 Mon May 04 05:00:00 UTC 2026,161.22033953898818,186.63300000000163,277.42087878788044,377.42087878788044,null,null,786.6330000000016,886.6330000000016,null,null
@@ -95,7 +94,7 @@ Thu May 07 22:00:00 UTC 2026,146.30077316093914,111.63300000000163,null,null,nul
 Thu May 07 23:00:00 UTC 2026,143.49600362899395,79.63300000000163,null,null,null,null,null,null,null,null
 Fri May 08 00:00:00 UTC 2026,145.74799028915965,111.63300000000163,null,null,null,null,null,null,null,null
 Fri May 08 01:00:00 UTC 2026,146.7786548821167,111.63300000000163,null,null,null,null,null,null,null,null
-Fri May 08 02:00:00 UTC 2026,111.63300000000163,null,null,null,null,null,null,null,null,null,null
+Fri May 08 02:00:00 UTC 2026,146.7786548821167,111.63300000000163,null,null,null,null,null,null,null,null
 Fri May 08 03:00:00 UTC 2026,111.63300000000163,null,null,null,null,null,null,null,null,null,null
 Fri May 08 04:00:00 UTC 2026,111.63300000000163,null,null,null,null,null,null,null,null,null,null
 Fri May 08 05:00:00 UTC 2026,111.63300000000163,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Sat May 23 00:00:00 UTC 2026,79.63300000000163,null,null,null,null,null,null,nul
 Sat May 23 01:00:00 UTC 2026,79.63300000000163,null,null,null,null,null,null,null,null,null,null
 Sat May 23 02:00:00 UTC 2026,79.63300000000163,null,null,null,null,null,null,null,null,null,null
 Sat May 23 03:00:00 UTC 2026,79.63300000000163,null,null,null,null,null,null,null,null,null,null
+Sat May 23 04:00:00 UTC 2026,79.63300000000163,null,null,null,null,null,null,null,null,null,null
