@@ -1,6 +1,4 @@
-date,P_Kweek_0_Kday_0_ETE_21_ORD_38_EXT_22_E2Ekor_55_EXTkor_19_DIFF_24,a,b,c,d,e,f,g,h,i,j
-Wed May 06 09:00:00 UTC 2026,1.22082,1.0461600000016915,null,null,null,null,601.0461600000017,701.0461600000017,null,null
-Wed May 06 10:00:00 UTC 2026,1.22046,1.0461600000016915,null,null,null,null,601.0461600000017,701.0461600000018,null,null
+date,P_Kweek_0_Kday_0_ETE_9_ORD_18_EXT_7_E2Ekor_51_EXTkor_10_DIFF_9,a,b,c,d,e,f,g,h,i,j
 Wed May 06 11:00:00 UTC 2026,1.22037,1.0461600000016915,null,null,null,null,601.0461600000017,701.0461600000017,null,null
 Wed May 06 12:00:00 UTC 2026,1.21978,1.0461600000016915,null,null,null,null,601.0461600000017,701.0461600000018,null,null
 Wed May 06 13:00:00 UTC 2026,1.22014,1.0461600000016915,null,null,null,null,601.0461600000017,701.0461600000017,null,null
@@ -95,8 +93,8 @@ Sun May 10 05:00:00 UTC 2026,1.21459,1.0461600000016915,null,null,null,null,null
 Sun May 10 06:00:00 UTC 2026,1.21459,1.0461600000016915,null,null,null,null,null,null,null,null
 Sun May 10 07:00:00 UTC 2026,1.21472,1.0461600000016915,null,null,null,null,null,null,null,null
 Sun May 10 08:00:00 UTC 2026,1.2146,1.0461600000016915,null,null,null,null,null,null,null,null
-Sun May 10 09:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
-Sun May 10 10:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
+Sun May 10 09:00:00 UTC 2026,1.2146,1.0461600000016915,null,null,null,null,null,null,null,null
+Sun May 10 10:00:00 UTC 2026,1.2146,1.0461600000016915,null,null,null,null,null,null,null,null
 Sun May 10 11:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
 Sun May 10 12:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
 Sun May 10 13:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +455,5 @@ Mon May 25 07:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,nu
 Mon May 25 08:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
 Mon May 25 09:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
 Mon May 25 10:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
+Mon May 25 11:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
+Mon May 25 12:00:00 UTC 2026,1.0461600000016915,null,null,null,null,null,null,null,null,null,null
