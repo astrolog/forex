@@ -1,5 +1,4 @@
-date,P_Kweek_-15_Kday_1_ETE_53_ORD_53_EXT_58_E2Ekor_55_EXTkor_53_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sat May 09 12:00:00 UTC 2026,-106.2344090795599,1.998989999992773,null,null,null,null,null,683.9593860395968,null,null
+date,P_Kweek_-17_Kday_-5_ETE_53_ORD_53_EXT_58_E2Ekor_55_EXTkor_53_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sat May 09 13:00:00 UTC 2026,-105.84847877055017,1.998989999992773,null,null,null,null,null,677.6425543564284,null,null
 Sat May 09 14:00:00 UTC 2026,-106.2344090795599,1.998989999992773,null,null,null,null,null,671.3257226732601,null,null
 Sat May 09 15:00:00 UTC 2026,-105.84847877055017,1.998989999992773,null,null,null,null,null,665.0088909900918,null,null
@@ -95,7 +94,7 @@ Wed May 13 08:00:00 UTC 2026,-417.2942381393839,-176.00101000000723,null,null,nu
 Wed May 13 09:00:00 UTC 2026,-486.37576345168463,-139.00101000000723,null,null,null,null,null,null,null,null
 Wed May 13 10:00:00 UTC 2026,-494.09436963182833,-181.00101000000723,null,null,null,null,null,null,null,null
 Wed May 13 11:00:00 UTC 2026,-494.09436963182833,-226.00101000000723,null,null,null,null,null,null,null,null
-Wed May 13 12:00:00 UTC 2026,-164.00101000000723,null,null,null,null,null,null,null,null,null,null
+Wed May 13 12:00:00 UTC 2026,-494.09436963182833,-164.00101000000723,null,null,null,null,null,null,null,null
 Wed May 13 13:00:00 UTC 2026,-205.00101000000723,null,null,null,null,null,null,null,null,null,null
 Wed May 13 14:00:00 UTC 2026,-197.00101000000723,null,null,null,null,null,null,null,null,null,null
 Wed May 13 15:00:00 UTC 2026,-243.00101000000723,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu May 28 10:00:00 UTC 2026,-294.0010100000072,null,null,null,null,null,null,nu
 Thu May 28 11:00:00 UTC 2026,-294.0010100000072,null,null,null,null,null,null,null,null,null,null
 Thu May 28 12:00:00 UTC 2026,-294.0010100000072,null,null,null,null,null,null,null,null,null,null
 Thu May 28 13:00:00 UTC 2026,-324.0010100000072,null,null,null,null,null,null,null,null,null,null
+Thu May 28 14:00:00 UTC 2026,-294.0010100000072,null,null,null,null,null,null,null,null,null,null
