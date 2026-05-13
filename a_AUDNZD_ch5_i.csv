@@ -1,5 +1,4 @@
-date,P_Kweek_-38_Kday_-60_ETE_58_ORD_58_EXT_60_E2Ekor_54_EXTkor_57_DIFF_30,a,b,c,d,e,f,g,h,i,j
-Sat May 09 19:00:00 UTC 2026,-788.0455551049113,1.309339999977965,null,null,null,null,null,860.9795527659353,null,null
+date,P_Kweek_-39_Kday_-62_ETE_58_ORD_58_EXT_60_E2Ekor_54_EXTkor_57_DIFF_30,a,b,c,d,e,f,g,h,i,j
 Sat May 09 20:00:00 UTC 2026,-786.3969537063357,1.309339999977965,null,null,null,null,null,852.4369995744461,null,null
 Sat May 09 21:00:00 UTC 2026,-748.4791215384744,1.309339999977965,null,null,null,null,null,843.8944463829566,null,null
 Sat May 09 22:00:00 UTC 2026,-710.5612893706498,1.309339999977965,null,null,null,null,null,835.3518931914673,null,null
@@ -95,7 +94,7 @@ Wed May 13 15:00:00 UTC 2026,-150.03681384619415,-911.690660000022,null,null,nul
 Wed May 13 16:00:00 UTC 2026,-145.0910096503576,-911.690660000022,null,null,null,null,null,null,null,null
 Wed May 13 17:00:00 UTC 2026,-72.55254811189593,-911.690660000022,null,null,null,null,null,null,null,null
 Wed May 13 18:00:00 UTC 2026,31.309339999977965,-911.690660000022,null,null,null,null,null,null,null,null
-Wed May 13 19:00:00 UTC 2026,-911.690660000022,null,null,null,null,null,null,null,null,null,null
+Wed May 13 19:00:00 UTC 2026,31.309339999977965,-911.690660000022,null,null,null,null,null,null,null,null
 Wed May 13 20:00:00 UTC 2026,-911.690660000022,null,null,null,null,null,null,null,null,null,null
 Wed May 13 21:00:00 UTC 2026,-911.690660000022,null,null,null,null,null,null,null,null,null,null
 Wed May 13 22:00:00 UTC 2026,-911.690660000022,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu May 28 17:00:00 UTC 2026,-1071.690660000022,null,null,null,null,null,null,nu
 Thu May 28 18:00:00 UTC 2026,-1071.690660000022,null,null,null,null,null,null,null,null,null,null
 Thu May 28 19:00:00 UTC 2026,-1071.690660000022,null,null,null,null,null,null,null,null,null,null
 Thu May 28 20:00:00 UTC 2026,-1071.690660000022,null,null,null,null,null,null,null,null,null,null
+Thu May 28 21:00:00 UTC 2026,-1071.690660000022,null,null,null,null,null,null,null,null,null,null
