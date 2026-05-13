@@ -1,5 +1,4 @@
-date,P_Kweek_74_Kday_-63_ETE_56_ORD_55_EXT_54_E2Ekor_52_EXTkor_53_DIFF_28,a,b,c,d,e,f,g,h,i,j
-Sat May 09 18:00:00 UTC 2026,156.09033039118555,126.63699999998789,-328.29117679559226,null,null,null,null,null,null,null
+date,P_Kweek_73_Kday_-57_ETE_57_ORD_54_EXT_54_E2Ekor_52_EXTkor_53_DIFF_28,a,b,c,d,e,f,g,h,i,j
 Sat May 09 19:00:00 UTC 2026,156.39962228245383,126.63699999998789,-320.69449171271935,null,null,null,null,null,null,null
 Sat May 09 20:00:00 UTC 2026,156.38042485472,126.63699999998789,-313.09780662984633,null,null,null,null,null,null,null
 Sat May 09 21:00:00 UTC 2026,156.3697596170897,126.63699999998789,-305.5011215469734,null,null,null,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 13 14:00:00 UTC 2026,144.88756478473778,123.63699999998789,null,null,nul
 Wed May 13 15:00:00 UTC 2026,145.9850177368543,98.63699999998789,null,null,null,null,null,null,null,null
 Wed May 13 16:00:00 UTC 2026,168.28283004968694,123.63699999998789,null,null,null,null,null,null,null,null
 Wed May 13 17:00:00 UTC 2026,141.73598706510217,98.63699999998789,null,null,null,null,null,null,null,null
-Wed May 13 18:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
+Wed May 13 18:00:00 UTC 2026,141.73598706510217,123.63699999998789,null,null,null,null,null,null,null,null
 Wed May 13 19:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
 Wed May 13 20:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
 Wed May 13 21:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu May 28 16:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,nu
 Thu May 28 17:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
 Thu May 28 18:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
 Thu May 28 19:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
+Thu May 28 20:00:00 UTC 2026,123.63699999998789,null,null,null,null,null,null,null,null,null,null
