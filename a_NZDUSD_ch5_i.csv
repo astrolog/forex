@@ -1,5 +1,4 @@
-date,P_Kweek_-49_Kday_0_ETE_53_ORD_55_EXT_59_E2Ekor_62_EXTkor_50_DIFF_28,a,b,c,d,e,f,g,h,i,j
-Sun May 10 14:00:00 UTC 2026,-0.5572945414837065,0.7789499999998952,null,null,null,null,null,679.4301127906976,null,null
+date,P_Kweek_-50_Kday_0_ETE_53_ORD_55_EXT_59_E2Ekor_62_EXTkor_50_DIFF_28,a,b,c,d,e,f,g,h,i,j
 Sun May 10 15:00:00 UTC 2026,-0.445940829693825,0.7789499999998952,null,null,null,null,null,678.2440662790697,null,null
 Sun May 10 16:00:00 UTC 2026,-0.445940829693825,0.7789499999998952,null,null,null,null,null,677.0580197674417,null,null
 Sun May 10 17:00:00 UTC 2026,-0.445940829693825,0.7789499999998952,null,null,null,null,null,675.8719732558138,null,null
@@ -95,7 +94,7 @@ Thu May 14 10:00:00 UTC 2026,-40.755984497816335,-10.221050000000105,null,null,n
 Thu May 14 11:00:00 UTC 2026,-40.86733820960746,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 12:00:00 UTC 2026,-43.205766157205005,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 13:00:00 UTC 2026,-40.64463078602645,-10.221050000000105,null,null,null,null,null,null,null,null
-Thu May 14 14:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
+Thu May 14 14:00:00 UTC 2026,-40.64463078602645,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 15:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Thu May 14 16:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Thu May 14 17:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Fri May 29 12:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,n
 Fri May 29 13:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Fri May 29 14:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Fri May 29 15:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
+Fri May 29 16:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
