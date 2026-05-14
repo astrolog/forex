@@ -1,5 +1,4 @@
 date,P_Kweek_-58_Kday_0_ETE_53_ORD_55_EXT_59_E2Ekor_62_EXTkor_50_DIFF_28,a,b,c,d,e,f,g,h,i,j
-Sun May 10 21:00:00 UTC 2026,-0.7800019650647201,0.7789499999998952,null,null,null,null,null,671.1277872093023,null,null
 Sun May 10 22:00:00 UTC 2026,-6.236333842793975,0.7789499999998952,null,null,null,null,null,669.9417406976743,null,null
 Sun May 10 23:00:00 UTC 2026,-6.236333842793975,0.7789499999998952,null,null,null,null,null,668.7556941860464,null,null
 Mon May 11 00:00:00 UTC 2026,-5.011443013100255,-10.221050000000105,null,null,null,null,null,667.5696476744185,null,null
@@ -95,7 +94,7 @@ Thu May 14 17:00:00 UTC 2026,-30.288735589519863,-10.221050000000105,null,null,n
 Thu May 14 18:00:00 UTC 2026,-37.415373144104855,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 19:00:00 UTC 2026,-31.179565283842678,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 20:00:00 UTC 2026,-32.96122467248954,-10.221050000000105,null,null,null,null,null,null,null,null
-Thu May 14 21:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
+Thu May 14 21:00:00 UTC 2026,-38.41755655021879,-10.221050000000105,null,null,null,null,null,null,null,null
 Thu May 14 22:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Thu May 14 23:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Fri May 15 00:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Fri May 29 19:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,n
 Fri May 29 20:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Fri May 29 21:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
 Fri May 29 22:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
+Fri May 29 23:00:00 UTC 2026,-10.221050000000105,null,null,null,null,null,null,null,null,null,null
