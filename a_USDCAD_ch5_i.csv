@@ -1,5 +1,4 @@
-date,P_Kweek_89_Kday_14_ETE_60_ORD_56_EXT_65_E2Ekor_59_EXTkor_54_DIFF_25,a,b,c,d,e,f,g,h,i,j
-Sat May 16 16:00:00 UTC 2026,7.32202382717314,1.1615300000121351,-372.74494482013165,null,null,null,null,null,null,null
+date,P_Kweek_89_Kday_10_ETE_60_ORD_56_EXT_65_E2Ekor_59_EXTkor_54_DIFF_25,a,b,c,d,e,f,g,h,i,j
 Sat May 16 17:00:00 UTC 2026,9.79115962964481,1.1615300000121351,-364.4859520143764,null,null,null,null,null,null,null
 Sat May 16 18:00:00 UTC 2026,11.025727530873795,1.1615300000121351,-356.226959208621,null,null,null,null,null,null,null
 Sat May 16 19:00:00 UTC 2026,12.877579382737835,1.1615300000121351,-347.9679664028655,null,null,null,null,null,null,null
@@ -80,22 +79,22 @@ Tue May 19 21:00:00 UTC 2026,91.88992506174915,128.16153000001214,null,null,null
 Tue May 19 22:00:00 UTC 2026,14.112147283966806,128.16153000001214,null,null,null,null,null,null,null,null
 Tue May 19 23:00:00 UTC 2026,77.69239419755417,111.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 00:00:00 UTC 2026,95.59362876544981,111.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 01:00:00 UTC 2026,130.16153000001214,100.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 02:00:00 UTC 2026,51.766468271622145,111.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 03:00:00 UTC 2026,10.408443580266152,111.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 04:00:00 UTC 2026,20.284986790139143,111.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 05:00:00 UTC 2026,-1.3199514814708806,100.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 06:00:00 UTC 2026,14.112147283966806,111.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 07:00:00 UTC 2026,-24.15945765430987,100.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 08:00:00 UTC 2026,-25.394025555538853,100.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 09:00:00 UTC 2026,-26.011309506160202,114.16153000001214,null,null,null,null,null,null,null,null
+Wed May 20 01:00:00 UTC 2026,130.16153000001214,100.16153000001214,null,null,null,null,null,null,null,1000.1615300000121
+Wed May 20 02:00:00 UTC 2026,51.766468271622145,111.16153000001214,null,null,null,null,null,null,null,1001.9115300000121
+Wed May 20 03:00:00 UTC 2026,10.408443580266152,111.16153000001214,null,null,null,null,null,null,null,1003.6615300000121
+Wed May 20 04:00:00 UTC 2026,20.284986790139143,111.16153000001214,null,null,null,null,null,null,null,1005.4115300000121
+Wed May 20 05:00:00 UTC 2026,-1.3199514814708806,100.16153000001214,null,null,null,null,null,null,null,1007.1615300000121
+Wed May 20 06:00:00 UTC 2026,14.112147283966806,111.16153000001214,null,null,null,null,null,null,null,1008.9115300000121
+Wed May 20 07:00:00 UTC 2026,-24.15945765430987,100.16153000001214,null,null,null,null,null,null,null,1010.6615300000121
+Wed May 20 08:00:00 UTC 2026,-25.394025555538853,100.16153000001214,null,null,null,null,null,null,null,1012.4115300000121
+Wed May 20 09:00:00 UTC 2026,-26.011309506160202,114.16153000001214,null,null,null,null,null,null,null,1014.1615300000121
 Wed May 20 10:00:00 UTC 2026,-0.7026675308495243,114.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 11:00:00 UTC 2026,53.001036172851144,114.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 12:00:00 UTC 2026,46.82819666667881,114.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 13:00:00 UTC 2026,46.82819666667881,114.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 14:00:00 UTC 2026,41.272641111127825,125.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 15:00:00 UTC 2026,41.272641111127825,114.16153000001214,null,null,null,null,null,null,null,null
-Wed May 20 16:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
+Wed May 20 15:00:00 UTC 2026,68.43313493828882,114.16153000001214,null,null,null,null,null,null,null,null
+Wed May 20 16:00:00 UTC 2026,68.43313493828882,114.16153000001214,null,null,null,null,null,null,null,null
 Wed May 20 17:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
 Wed May 20 18:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
 Wed May 20 19:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 14:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,nu
 Thu Jun 04 15:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 16:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 17:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 18:00:00 UTC 2026,114.16153000001214,null,null,null,null,null,null,null,null,null,null
