@@ -1,5 +1,4 @@
-date,P_Kweek_-7_Kday_31_ETE_64_ORD_61_EXT_68_E2Ekor_61_EXTkor_59_DIFF_27,a,b,c,d,e,f,g,h,i,j
-Sat May 16 08:00:00 UTC 2026,162.81060443593586,93.24099999999453,null,null,null,597.0871538461483,null,null,null,null
+date,P_Kweek_-6_Kday_19_ETE_64_ORD_61_EXT_68_E2Ekor_61_EXTkor_59_DIFF_27,a,b,c,d,e,f,g,h,i,j
 Sat May 16 09:00:00 UTC 2026,162.8938954664331,93.24099999999453,null,null,null,595.1640769230714,null,null,null,null
 Sat May 16 10:00:00 UTC 2026,163.10983517513202,93.24099999999453,null,null,null,593.2409999999945,null,null,null,null
 Sat May 16 11:00:00 UTC 2026,131.63816505915406,93.24099999999453,null,null,null,591.3179230769176,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 04:00:00 UTC 2026,136.66339056581126,175.24099999999453,null,null,nul
 Wed May 20 05:00:00 UTC 2026,155.7339516966672,175.24099999999453,null,null,null,null,null,null,null,null
 Wed May 20 06:00:00 UTC 2026,157.25478421648057,175.24099999999453,null,null,null,null,null,null,null,null
 Wed May 20 07:00:00 UTC 2026,162.01471236674308,175.24099999999453,null,null,null,null,null,null,null,null
-Wed May 20 08:00:00 UTC 2026,175.24099999999453,null,null,null,null,null,null,null,null,null,null
+Wed May 20 08:00:00 UTC 2026,162.01471236674308,175.24099999999453,null,null,null,null,null,null,null,null
 Wed May 20 09:00:00 UTC 2026,175.24099999999453,null,null,null,null,null,null,null,null,null,null
 Wed May 20 10:00:00 UTC 2026,175.24099999999453,null,null,null,null,null,null,null,null,null,null
 Wed May 20 11:00:00 UTC 2026,175.24099999999453,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 06:00:00 UTC 2026,187.24099999999453,null,null,null,null,null,null,nu
 Thu Jun 04 07:00:00 UTC 2026,187.24099999999453,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 08:00:00 UTC 2026,187.24099999999453,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 09:00:00 UTC 2026,187.24099999999453,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 10:00:00 UTC 2026,187.24099999999453,null,null,null,null,null,null,null,null,null,null
