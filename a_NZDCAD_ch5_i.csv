@@ -1,5 +1,4 @@
-date,P_Kweek_73_Kday_-63_ETE_59_ORD_59_EXT_63_E2Ekor_58_EXTkor_54_DIFF_29,a,b,c,d,e,f,g,h,i,j
-Sat May 16 03:00:00 UTC 2026,-295.84622858952235,0.9049600000143982,134.78087240877352,null,334.78087240877346,null,565.2685963636508,665.2685963636508,null,null
+date,P_Kweek_73_Kday_-60_ETE_59_ORD_59_EXT_63_E2Ekor_58_EXTkor_54_DIFF_29,a,b,c,d,e,f,g,h,i,j
 Sat May 16 04:00:00 UTC 2026,-262.0110463391264,0.9049600000143982,129.7954709489195,null,329.7954709489195,null,561.5299600000144,661.5299600000144,null,null
 Sat May 16 05:00:00 UTC 2026,-261.45637122026994,0.9049600000143982,124.81006948906548,null,324.8100694890655,null,557.791323636378,657.791323636378,null,null
 Sat May 16 06:00:00 UTC 2026,-278.65129990489925,0.9049600000143982,119.82466802921148,null,319.82466802921147,null,554.0526872727417,654.0526872727417,null,null
@@ -95,7 +94,7 @@ Tue May 19 23:00:00 UTC 2026,-220.96508754356609,-219.0950399999856,null,null,nu
 Wed May 20 00:00:00 UTC 2026,-262.0110463391264,-219.0950399999856,null,null,null,null,379.9049600000144,479.9049600000144,null,null
 Wed May 20 01:00:00 UTC 2026,-349.0950399999856,-219.0950399999856,null,null,null,null,380.9049600000144,480.9049600000144,null,null
 Wed May 20 02:00:00 UTC 2026,-323.0253094136166,-219.0950399999856,null,null,null,null,null,null,null,null
-Wed May 20 03:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
+Wed May 20 03:00:00 UTC 2026,-323.0253094136166,-219.0950399999856,null,null,null,null,null,null,null,null
 Wed May 20 04:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
 Wed May 20 05:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
 Wed May 20 06:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 01:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,nu
 Thu Jun 04 02:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 03:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 04:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 05:00:00 UTC 2026,-219.0950399999856,null,null,null,null,null,null,null,null,null,null
