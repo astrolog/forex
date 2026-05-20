@@ -1,5 +1,4 @@
-date,P_Kweek_-1_Kday_-72_ETE_60_ORD_57_EXT_63_E2Ekor_58_EXTkor_56_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sat May 16 19:00:00 UTC 2026,105.84547999999924,1.405480000001262,null,null,null,474.28385837837965,null,null,null,null
+date,P_Kweek_-4_Kday_-64_ETE_60_ORD_57_EXT_63_E2Ekor_58_EXTkor_56_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sat May 16 20:00:00 UTC 2026,105.84547999999924,1.405480000001262,null,null,null,471.95502954955083,null,null,null,null
 Sat May 16 21:00:00 UTC 2026,105.09119428571698,1.405480000001262,null,null,null,469.626200720722,null,null,null,null
 Sat May 16 22:00:00 UTC 2026,106.59976571428989,1.405480000001262,null,null,null,467.2973718918932,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 15:00:00 UTC 2026,4.771194285714639,226.40548000000126,null,null,null
 Wed May 20 16:00:00 UTC 2026,-11.823091428570645,226.40548000000126,null,null,null,null,null,null,null,null
 Wed May 20 17:00:00 UTC 2026,20.23405142857233,226.40548000000126,null,null,null,null,null,null,null,null
 Wed May 20 18:00:00 UTC 2026,37.58262285714826,226.40548000000126,null,null,null,null,null,null,null,null
-Wed May 20 19:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
+Wed May 20 19:00:00 UTC 2026,37.58262285714826,226.40548000000126,null,null,null,null,null,null,null,null
 Wed May 20 20:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Wed May 20 21:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Wed May 20 22:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 17:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,nu
 Thu Jun 04 18:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 19:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 20:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 21:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
