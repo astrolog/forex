@@ -1,5 +1,4 @@
-date,P_Kweek_39_Kday_-58_ETE_58_ORD_58_EXT_65_E2Ekor_61_EXTkor_52_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sat May 16 15:00:00 UTC 2026,26.105426131623133,1.2097600000015518,null,null,null,null,null,null,null,null
+date,P_Kweek_36_Kday_-55_ETE_58_ORD_58_EXT_65_E2Ekor_61_EXTkor_52_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sat May 16 16:00:00 UTC 2026,25.863050529695386,1.2097600000015518,null,null,null,null,null,null,null,null
 Sat May 16 17:00:00 UTC 2026,26.105426131623133,1.2097600000015518,null,null,null,null,null,null,null,null
 Sat May 16 18:00:00 UTC 2026,25.863050529695386,1.2097600000015518,null,null,null,null,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 11:00:00 UTC 2026,-27.459581894058605,110.20976000000155,null,null,nu
 Wed May 20 12:00:00 UTC 2026,-40.79023999999845,110.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 13:00:00 UTC 2026,-37.88173277688166,110.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 14:00:00 UTC 2026,-28.671459903686568,110.20976000000155,null,null,null,null,null,null,null,null
-Wed May 20 15:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
+Wed May 20 15:00:00 UTC 2026,-28.671459903686568,110.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 16:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Wed May 20 17:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Wed May 20 18:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 13:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,nu
 Thu Jun 04 14:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 15:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 16:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 17:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
