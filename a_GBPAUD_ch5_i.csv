@@ -1,5 +1,4 @@
-date,P_Kweek_-59_Kday_-30_ETE_57_ORD_57_EXT_67_E2Ekor_65_EXTkor_54_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sat May 16 17:00:00 UTC 2026,-913.3172839451609,1.9059400000260212,null,null,null,null,486.58335935486474,null,null,null
+date,P_Kweek_-61_Kday_-38_ETE_57_ORD_57_EXT_67_E2Ekor_65_EXTkor_54_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sat May 16 18:00:00 UTC 2026,-915.1167790767831,1.9059400000260212,null,null,null,null,477.7123916129293,null,null,null
 Sat May 16 19:00:00 UTC 2026,-910.7979907608834,1.9059400000260212,null,null,null,null,468.84142387099376,null,null,null
 Sat May 16 20:00:00 UTC 2026,-910.4380917345558,1.9059400000260212,null,null,null,null,459.9704561290583,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 13:00:00 UTC 2026,-108.58306108183922,-966.094059999974,null,null,nul
 Wed May 20 14:00:00 UTC 2026,-130.17700266135364,-966.094059999974,null,null,null,null,null,null,null,null
 Wed May 20 15:00:00 UTC 2026,-137.73488221418597,-966.094059999974,null,null,null,null,null,null,null,null
 Wed May 20 16:00:00 UTC 2026,-143.4932666353883,-966.094059999974,null,null,null,null,null,null,null,null
-Wed May 20 17:00:00 UTC 2026,-966.094059999974,null,null,null,null,null,null,null,null,null,null
+Wed May 20 17:00:00 UTC 2026,-143.4932666353883,-966.094059999974,null,null,null,null,null,null,null,null
 Wed May 20 18:00:00 UTC 2026,-966.094059999974,null,null,null,null,null,null,null,null,null,null
 Wed May 20 19:00:00 UTC 2026,-966.094059999974,null,null,null,null,null,null,null,null,null,null
 Wed May 20 20:00:00 UTC 2026,-966.094059999974,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 15:00:00 UTC 2026,-896.094059999974,null,null,null,null,null,null,nul
 Thu Jun 04 16:00:00 UTC 2026,-896.094059999974,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 17:00:00 UTC 2026,-896.094059999974,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 18:00:00 UTC 2026,-896.094059999974,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 19:00:00 UTC 2026,-896.094059999974,null,null,null,null,null,null,null,null,null,null
