@@ -1,5 +1,4 @@
-date,P_Kweek_53_Kday_-29_ETE_58_ORD_58_EXT_65_E2Ekor_61_EXTkor_52_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sat May 16 08:00:00 UTC 2026,11.766596902796636,1.2097600000015518,null,null,null,null,null,null,null,null
+date,P_Kweek_52_Kday_-17_ETE_58_ORD_58_EXT_65_E2Ekor_61_EXTkor_52_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sat May 16 09:00:00 UTC 2026,11.493120790774555,1.2097600000015518,null,null,null,null,null,null,null,null
 Sat May 16 10:00:00 UTC 2026,11.21964467874642,1.2097600000015518,null,null,null,null,null,null,null,null
 Sat May 16 11:00:00 UTC 2026,11.766596902796636,1.2097600000015518,null,null,null,null,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 04:00:00 UTC 2026,-25.69963044481092,92.20976000000155,null,null,null
 Wed May 20 05:00:00 UTC 2026,-42.92862550247506,92.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 06:00:00 UTC 2026,-39.64691215815548,92.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 07:00:00 UTC 2026,-37.18562714992035,92.20976000000155,null,null,null,null,null,null,null,null
-Wed May 20 08:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
+Wed May 20 08:00:00 UTC 2026,-37.18562714992035,92.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 09:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
 Wed May 20 10:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
 Wed May 20 11:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 06:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,nul
 Thu Jun 04 07:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 08:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu Jun 04 09:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
+Thu Jun 04 10:00:00 UTC 2026,92.20976000000155,null,null,null,null,null,null,null,null,null,null
