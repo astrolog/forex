@@ -1,5 +1,4 @@
-date,P_Kweek_-38_Kday_42_ETE_59_ORD_57_EXT_64_E2Ekor_59_EXTkor_56_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sun May 17 08:00:00 UTC 2026,108.86262285714507,1.405480000001262,null,null,null,445.5225971171184,null,null,null,null
+date,P_Kweek_-41_Kday_61_ETE_59_ORD_57_EXT_63_E2Ekor_59_EXTkor_55_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sun May 17 09:00:00 UTC 2026,109.2397657142904,1.405480000001262,null,null,null,443.08566018018143,null,null,null,null
 Sun May 17 10:00:00 UTC 2026,112.63405142857317,1.405480000001262,null,null,null,440.6487232432445,null,null,null,null
 Sun May 17 11:00:00 UTC 2026,108.48547999999975,1.405480000001262,null,null,null,438.21178630630754,null,null,null,null
@@ -95,7 +94,7 @@ Thu May 21 04:00:00 UTC 2026,96.0397657142879,226.40548000000126,null,null,null,
 Thu May 21 05:00:00 UTC 2026,131.86833714285893,226.40548000000126,null,null,null,null,826.4054800000013,null,null,null
 Thu May 21 06:00:00 UTC 2026,89.62833714285928,226.40548000000126,null,null,null,null,null,null,null,null
 Thu May 21 07:00:00 UTC 2026,85.47976571428588,226.40548000000126,null,null,null,null,null,null,null,null
-Thu May 21 08:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
+Thu May 21 08:00:00 UTC 2026,80.5769085714302,226.40548000000126,null,null,null,null,null,null,null,null
 Thu May 21 09:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Thu May 21 10:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Thu May 21 11:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Fri Jun 05 06:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,nu
 Fri Jun 05 07:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 08:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 09:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
+Fri Jun 05 10:00:00 UTC 2026,226.40548000000126,null,null,null,null,null,null,null,null,null,null
