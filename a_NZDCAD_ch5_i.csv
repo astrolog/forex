@@ -1,5 +1,4 @@
-date,P_Kweek_68_Kday_-2_ETE_60_ORD_59_EXT_63_E2Ekor_59_EXTkor_55_DIFF_29,a,b,c,d,e,f,g,h,i,j
-Sun May 17 01:00:00 UTC 2026,-657.1776730532056,0.9049600000143982,null,null,null,null,null,568.041323636378,null,null
+date,P_Kweek_67_Kday_-6_ETE_60_ORD_59_EXT_63_E2Ekor_59_EXTkor_55_DIFF_29,a,b,c,d,e,f,g,h,i,j
 Sun May 17 02:00:00 UTC 2026,-650.1258523249151,0.9049600000143982,null,null,null,null,null,564.6549600000144,null,null
 Sun May 17 03:00:00 UTC 2026,-657.1776730532056,0.9049600000143982,null,null,null,null,null,561.2685963636508,null,null
 Sun May 17 04:00:00 UTC 2026,-650.1258523249151,0.9049600000143982,null,null,null,null,null,557.8822327272871,null,null
@@ -95,7 +94,7 @@ Wed May 20 21:00:00 UTC 2026,-377.9255722128735,-703.0950399999856,null,null,nul
 Wed May 20 22:00:00 UTC 2026,-455.49560022406894,-703.0950399999856,null,null,null,null,null,null,null,null
 Wed May 20 23:00:00 UTC 2026,-496.3961604481602,-703.0950399999856,null,null,null,null,null,null,null,null
 Thu May 21 00:00:00 UTC 2026,-454.0852360784171,-703.0950399999856,null,null,null,null,null,null,null,null
-Thu May 21 01:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
+Thu May 21 01:00:00 UTC 2026,-454.0852360784171,-703.0950399999856,null,null,null,null,null,null,null,null
 Thu May 21 02:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
 Thu May 21 03:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
 Thu May 21 04:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 23:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,nu
 Fri Jun 05 00:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 01:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 02:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
+Fri Jun 05 03:00:00 UTC 2026,-703.0950399999856,null,null,null,null,null,null,null,null,null,null
