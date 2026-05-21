@@ -1,5 +1,4 @@
-date,P_Kweek_16_Kday_4_ETE_58_ORD_58_EXT_64_E2Ekor_60_EXTkor_51_DIFF_26,a,b,c,d,e,f,g,h,i,j
-Sun May 17 01:00:00 UTC 2026,35.89112557610453,1.2097600000015518,null,null,null,null,null,null,null,null
+date,P_Kweek_13_Kday_0_ETE_58_ORD_58_EXT_64_E2Ekor_60_EXTkor_51_DIFF_26,a,b,c,d,e,f,g,h,i,j
 Sun May 17 02:00:00 UTC 2026,35.676331834993604,1.2097600000015518,null,null,null,null,null,null,null,null
 Sun May 17 03:00:00 UTC 2026,35.89112557610453,1.2097600000015518,null,null,null,null,null,null,null,null
 Sun May 17 04:00:00 UTC 2026,34.81715687055464,1.2097600000015518,null,null,null,null,null,null,null,null
@@ -95,7 +94,7 @@ Wed May 20 21:00:00 UTC 2026,-15.22978480796412,110.20976000000155,null,null,nul
 Wed May 20 22:00:00 UTC 2026,-17.377722219059162,110.20976000000155,null,null,null,null,null,null,null,null
 Wed May 20 23:00:00 UTC 2026,-26.399059345661193,110.20976000000155,null,null,null,null,null,null,null,null
 Thu May 21 00:00:00 UTC 2026,-37.1387464011364,110.20976000000155,null,null,null,null,null,null,null,null
-Thu May 21 01:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
+Thu May 21 01:00:00 UTC 2026,-37.1387464011364,110.20976000000155,null,null,null,null,null,null,null,null
 Thu May 21 02:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu May 21 03:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Thu May 21 04:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
@@ -457,3 +456,4 @@ Thu Jun 04 23:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,nu
 Fri Jun 05 00:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 01:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
 Fri Jun 05 02:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
+Fri Jun 05 03:00:00 UTC 2026,110.20976000000155,null,null,null,null,null,null,null,null,null,null
