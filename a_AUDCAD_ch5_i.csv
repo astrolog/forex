@@ -1,7 +1,4 @@
-date,P_Kweek_1_Kday_0_ETE_61_ORD_57_EXT_68_E2Ekor_67_EXTkor_59_DIFF_27,a,b,c,d,e,f,g,h,i,j
-Sat Jun 06 20:00:00 UTC 2026,-785.7135815904849,0.948210000002291,null,null,null,null,null,null,null,817.1206237931058
-Sat Jun 06 21:00:00 UTC 2026,-789.1002360694833,0.948210000002291,null,null,null,null,null,null,null,813.3102789655195
-Sat Jun 06 22:00:00 UTC 2026,-792.4868905484441,0.948210000002291,null,null,null,null,null,null,null,809.4999341379332
+date,P_Kweek_-2_Kday_0_ETE_61_ORD_57_EXT_68_E2Ekor_67_EXTkor_59_DIFF_27,a,b,c,d,e,f,g,h,i,j
 Sat Jun 06 23:00:00 UTC 2026,-755.233691279725,0.948210000002291,null,null,null,null,null,null,null,805.6895893103471
 Sun Jun 07 00:00:00 UTC 2026,-802.646853985364,0.948210000002291,null,null,null,null,null,null,null,801.8792444827609
 Sun Jun 07 01:00:00 UTC 2026,-802.646853985364,0.948210000002291,null,null,null,null,null,null,null,798.0688996551746
@@ -263,9 +260,9 @@ Sun Jun 14 07:00:00 UTC 2026,518.1483928153648,-2882.0517899999977,null,null,nul
 Sun Jun 14 08:00:00 UTC 2026,507.9884293784071,-2882.0517899999977,null,null,null,null,null,null,null,null
 Sun Jun 14 09:00:00 UTC 2026,507.9884293784071,-2882.0517899999977,null,null,null,null,null,null,null,null
 Sun Jun 14 10:00:00 UTC 2026,531.6950107312455,-2882.0517899999977,null,null,null,null,null,null,null,null
-Sun Jun 14 11:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
-Sun Jun 14 12:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
-Sun Jun 14 13:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
+Sun Jun 14 11:00:00 UTC 2026,524.9217017732863,-2882.0517899999977,null,null,null,null,null,null,null,null
+Sun Jun 14 12:00:00 UTC 2026,535.0816652102435,-2882.0517899999977,null,null,null,null,null,null,null,null
+Sun Jun 14 13:00:00 UTC 2026,535.0816652102435,-2882.0517899999977,null,null,null,null,null,null,null,null
 Sun Jun 14 14:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
 Sun Jun 14 15:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
 Sun Jun 14 16:00:00 UTC 2026,-2882.0517899999977,null,null,null,null,null,null,null,null,null,null
@@ -297,9 +294,9 @@ Mon Jun 15 17:00:00 UTC 2026,-2805.0517899999977,null,null,null,null,null,null,n
 Mon Jun 15 18:00:00 UTC 2026,-2832.0517899999977,null,null,null,null,null,null,null,null,null,null
 Mon Jun 15 19:00:00 UTC 2026,-2825.0517899999977,null,null,null,null,null,null,null,null,null,null
 Mon Jun 15 20:00:00 UTC 2026,-2770.0517899999977,null,null,null,null,null,null,null,null,null,null
-Mon Jun 15 21:00:00 UTC 2026,-2877.0517899999977,null,null,null,null,null,null,null,null,null,null
+Mon Jun 15 21:00:00 UTC 2026,-2876.0517899999977,null,null,null,null,null,null,null,null,null,null
 Mon Jun 15 22:00:00 UTC 2026,-2930.0517899999977,null,null,null,null,null,null,null,null,null,null
-Mon Jun 15 23:00:00 UTC 2026,-2896.0517899999977,null,null,null,null,null,null,null,null,null,null
+Mon Jun 15 23:00:00 UTC 2026,-2895.0517899999977,null,null,null,null,null,null,null,null,null,null
 Tue Jun 16 00:00:00 UTC 2026,-2927.0517899999977,null,null,null,null,null,null,null,null,null,null
 Tue Jun 16 01:00:00 UTC 2026,-2843.0517899999977,null,null,null,null,null,null,null,null,null,null
 Tue Jun 16 02:00:00 UTC 2026,-2873.0517899999977,null,null,null,null,null,null,null,null,null,null
@@ -961,3 +958,6 @@ Mon Jul 13 09:00:00 UTC 2026,-2731.0517899999977,null,null,null,null,null,null,n
 Mon Jul 13 10:00:00 UTC 2026,-2743.0517899999977,null,null,null,null,null,null,null,null,null,null
 Mon Jul 13 11:00:00 UTC 2026,-2747.0517899999977,null,null,null,null,null,null,null,null,null,null
 Mon Jul 13 12:00:00 UTC 2026,-2782.0517899999977,null,null,null,null,null,null,null,null,null,null
+Mon Jul 13 13:00:00 UTC 2026,-2761.0517899999977,null,null,null,null,null,null,null,null,null,null
+Mon Jul 13 14:00:00 UTC 2026,-2762.0517899999977,null,null,null,null,null,null,null,null,null,null
+Mon Jul 13 15:00:00 UTC 2026,-2774.0517899999977,null,null,null,null,null,null,null,null,null,null
