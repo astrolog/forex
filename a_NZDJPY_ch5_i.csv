@@ -1,6 +1,4 @@
-date,P_Kweek_36_Kday_0_ETE_56_ORD_55_EXT_58_E2Ekor_58_EXTkor_56_DIFF_24,a,b,c,d,e,f,g,h,i,j
-Sun Jun 07 06:00:00 UTC 2026,233.25030018142857,93.24100000003818,null,null,null,null,null,null,null,null
-Sun Jun 07 07:00:00 UTC 2026,233.25030018142857,93.24100000003818,null,null,null,null,null,null,null,null
+date,P_Kweek_33_Kday_0_ETE_56_ORD_55_EXT_58_E2Ekor_58_EXTkor_56_DIFF_24,a,b,c,d,e,f,g,h,i,j
 Sun Jun 07 08:00:00 UTC 2026,233.25030018142857,93.24100000003818,null,null,null,null,null,null,null,null
 Sun Jun 07 09:00:00 UTC 2026,233.25030018142857,93.24100000003818,null,null,null,null,null,null,null,null
 Sun Jun 07 10:00:00 UTC 2026,233.25030018142857,93.24100000003818,null,null,null,null,null,null,null,null
@@ -263,8 +261,8 @@ Sun Jun 14 15:00:00 UTC 2026,577.8062064981408,523.2410000000382,null,null,null,
 Sun Jun 14 16:00:00 UTC 2026,577.8544712326128,523.2410000000382,null,null,null,null,null,null,null,null
 Sun Jun 14 17:00:00 UTC 2026,571.1637724161836,523.2410000000382,null,null,null,null,null,null,null,null
 Sun Jun 14 18:00:00 UTC 2026,571.1637724161836,523.2410000000382,null,null,null,null,null,null,null,null
-Sun Jun 14 19:00:00 UTC 2026,523.2410000000382,null,null,null,null,null,null,null,null,null,null
-Sun Jun 14 20:00:00 UTC 2026,523.2410000000382,null,null,null,null,null,null,null,null,null,null
+Sun Jun 14 19:00:00 UTC 2026,571.8394786988171,523.2410000000382,null,null,null,null,null,null,null,null
+Sun Jun 14 20:00:00 UTC 2026,572.3522915026011,523.2410000000382,null,null,null,null,null,null,null,null
 Sun Jun 14 21:00:00 UTC 2026,511.2410000000382,null,null,null,null,null,null,null,null,null,null
 Sun Jun 14 22:00:00 UTC 2026,533.2410000000382,null,null,null,null,null,null,null,null,null,null
 Sun Jun 14 23:00:00 UTC 2026,531.2410000000382,null,null,null,null,null,null,null,null,null,null
@@ -961,3 +959,5 @@ Mon Jul 13 17:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,nul
 Mon Jul 13 18:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,null,null,null,null
 Mon Jul 13 19:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,null,null,null,null
 Mon Jul 13 20:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,null,null,null,null
+Mon Jul 13 21:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,null,null,null,null
+Mon Jul 13 22:00:00 UTC 2026,518.2410000000382,null,null,null,null,null,null,null,null,null,null
