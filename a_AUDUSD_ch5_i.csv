@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Mon Jun 22 21:00:00 UTC 2026,0.70014,0.91481,230.02844636363636,null,null,530.0284463636364,730.0284463636364,null,null,1030.0284463636362
 Mon Jun 22 22:00:00 UTC 2026,0.70015,0.91481,228.66935545454544,null,null,528.6693554545454,728.6693554545454,null,null,1028.6693554545454
 Mon Jun 22 23:00:00 UTC 2026,0.70076,0.91481,227.31026454545457,null,null,527.3102645454545,727.3102645454546,null,null,1027.3102645454546
 Tue Jun 23 00:00:00 UTC 2026,0.70039,0.91481,225.95117363636365,null,null,525.9511736363636,725.9511736363636,null,null,1025.9511736363636
@@ -95,7 +94,7 @@ Fri Jun 26 17:00:00 UTC 2026,0.68982,0.91481,104.99208272727273,null,null,404.99
 Fri Jun 26 18:00:00 UTC 2026,0.68917,0.91481,103.63299181818182,null,null,403.6329918181818,603.6329918181818,null,null,903.6329918181818
 Fri Jun 26 19:00:00 UTC 2026,0.68963,0.91481,102.27390090909091,null,null,402.2739009090909,602.2739009090909,null,null,902.2739009090908
 Fri Jun 26 20:00:00 UTC 2026,0.69021,0.91481,100.91481,null,null,400.91481,600.91481,null,null,900.91481
-Fri Jun 26 21:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
+Fri Jun 26 21:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null
 Fri Jun 26 22:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
 Fri Jun 26 23:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
 Sat Jun 27 00:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
@@ -320,3 +319,4 @@ Mon Jul 06 02:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,nul
 Mon Jul 06 03:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
 Mon Jul 06 04:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
 Mon Jul 06 05:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
+Mon Jul 06 06:00:00 UTC 2026,0.69021,544.91481,null,null,null,null,null,null,null,null,null,null
