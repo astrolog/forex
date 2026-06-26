@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Mon Jun 22 21:00:00 UTC 2026,185.27543,130.79,null,null,null,null,null,null,null,1358.252121212121
 Mon Jun 22 22:00:00 UTC 2026,185.20807,130.79,null,null,null,null,null,null,null,1354.8051515151515
 Mon Jun 22 23:00:00 UTC 2026,185.32566,130.79,null,null,null,null,null,null,null,1351.358181818182
 Tue Jun 23 00:00:00 UTC 2026,185.06349,130.79,null,null,null,null,null,null,null,1347.9112121212122
@@ -95,7 +94,7 @@ Fri Jun 26 17:00:00 UTC 2026,183.98913,130.79,null,null,null,null,null,null,null
 Fri Jun 26 18:00:00 UTC 2026,184.04757,130.79,null,null,null,null,null,null,null,1037.6839393939392
 Fri Jun 26 19:00:00 UTC 2026,184.25543,130.79,null,null,null,null,null,null,null,1034.2369696969697
 Fri Jun 26 20:00:00 UTC 2026,184.33808,130.79,null,330.78999999999996,null,null,null,830.79,null,1030.79
-Fri Jun 26 21:00:00 UTC 2026,184.33808,1563.79,null,null,334.4738046272493,null,null,null,null,834.4738046272494,null,null
+Fri Jun 26 21:00:00 UTC 2026,184.33808,1563.79,null,334.4738046272493,null,null,null,834.4738046272494,null,null
 Fri Jun 26 22:00:00 UTC 2026,184.33808,1563.79,null,null,338.15760925449865,null,null,null,null,838.1576092544987,null,null
 Fri Jun 26 23:00:00 UTC 2026,184.33808,1563.79,null,null,341.84141388174805,null,null,null,null,841.841413881748,null,null
 Sat Jun 27 00:00:00 UTC 2026,184.33808,1563.79,null,null,345.5252185089974,null,null,null,null,845.5252185089975,null,null
@@ -343,3 +342,4 @@ Tue Jul 07 01:00:00 UTC 2026,184.33808,1563.79,null,null,1233.3221336760926,null
 Tue Jul 07 02:00:00 UTC 2026,184.33808,1563.79,null,null,1237.005938303342,null,null,null,null,1737.005938303342,null,null
 Tue Jul 07 03:00:00 UTC 2026,184.33808,1563.79,null,null,1240.6897429305911,null,null,null,null,1740.689742930591,null,null
 Tue Jul 07 04:00:00 UTC 2026,184.33808,1563.79,null,null,1244.3735475578405,null,null,null,null,1744.3735475578405,null,null
+Tue Jul 07 05:00:00 UTC 2026,184.33808,1563.79,null,null,1248.0573521850897,null,null,null,null,1748.05735218509,null,null
