@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Mon Jun 22 22:00:00 UTC 2026,0.99236,0.96241,null,null,null,null,611.1601501129943,null,811.1601501129943,null
 Mon Jun 22 23:00:00 UTC 2026,0.99211,0.96241,null,null,null,null,611.052805480226,null,811.052805480226,null
 Tue Jun 23 00:00:00 UTC 2026,0.99216,0.96241,null,null,null,null,610.9454608474575,null,810.9454608474575,null
 Tue Jun 23 01:00:00 UTC 2026,0.99202,0.96241,null,null,null,null,610.8381162146892,null,810.8381162146892,null
@@ -95,7 +94,7 @@ Fri Jun 26 18:00:00 UTC 2026,0.97845,0.96241,null,null,null,null,601.28444389830
 Fri Jun 26 19:00:00 UTC 2026,0.97828,0.96241,null,null,null,null,601.1770992655366,null,801.1770992655366,null
 Fri Jun 26 20:00:00 UTC 2026,0.97904,0.96241,null,null,null,null,601.0697546327683,null,801.0697546327683,null
 Fri Jun 26 21:00:00 UTC 2026,0.97896,0.96241,null,null,null,null,600.96241,700.96241,800.96241,null
-Fri Jun 26 22:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,701.0941304301075,null,null
+Fri Jun 26 22:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,701.0941304301075,null,null
 Fri Jun 26 23:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,701.225850860215,null,null
 Sat Jun 27 00:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,701.3575712903225,null,null
 Sat Jun 27 01:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,701.4892917204301,null,null
@@ -326,3 +325,4 @@ Mon Jul 06 09:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null
 Mon Jul 06 10:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,731.1263884946236,null,null
 Mon Jul 06 11:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,731.2581089247311,null,null
 Mon Jul 06 12:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,731.3898293548386,null,null
+Mon Jul 06 13:00:00 UTC 2026,0.97896,49.96241,null,null,null,null,null,null,null,731.5215497849463,null,null
