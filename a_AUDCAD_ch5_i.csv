@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Tue Jun 23 05:00:00 UTC 2026,0.99112,0.96241,null,null,null,null,611.0274657620818,null,811.0274657620819,null
 Tue Jun 23 06:00:00 UTC 2026,0.99124,0.96241,null,null,null,null,610.9215178066914,null,810.9215178066913,null
 Tue Jun 23 07:00:00 UTC 2026,0.99134,0.96241,null,null,null,null,610.8155698513011,null,810.8155698513011,null
 Tue Jun 23 08:00:00 UTC 2026,0.99171,0.96241,null,null,null,null,610.7096218959107,null,810.7096218959107,null
@@ -95,7 +94,7 @@ Sat Jun 27 01:00:00 UTC 2026,0.97986,0.96241,null,null,null,null,601.28025386617
 Sat Jun 27 02:00:00 UTC 2026,0.9795,0.96241,null,null,null,null,601.1743059107807,null,801.1743059107806,null
 Sat Jun 27 03:00:00 UTC 2026,0.97942,0.96241,null,null,null,null,601.0683579553903,null,801.0683579553903,null
 Sat Jun 27 04:00:00 UTC 2026,0.979,0.96241,null,null,null,null,600.96241,700.96241,800.96241,null
-Sat Jun 27 05:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,701.0941304301075,null,null
+Sat Jun 27 05:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,701.0941304301075,null,null
 Sat Jun 27 06:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,701.225850860215,null,null
 Sat Jun 27 07:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,701.3575712903225,null,null
 Sat Jun 27 08:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,701.4892917204301,null,null
@@ -326,3 +325,4 @@ Mon Jul 06 16:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,7
 Mon Jul 06 17:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,731.1263884946236,null,null
 Mon Jul 06 18:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,731.2581089247311,null,null
 Mon Jul 06 19:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,731.3898293548386,null,null
+Mon Jul 06 20:00:00 UTC 2026,0.979,49.96241,null,null,null,null,null,null,null,731.5215497849463,null,null
