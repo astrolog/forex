@@ -1,5 +1,4 @@
-date,P_Kweek_3_Kday_0_ETE_45_ORD_47_EXT_52_E2Ekor_56_EXTkor_50_DIFF_24,a,b,c,d,e,f,g,h,i,j
-Thu Jul 02 06:00:00 UTC 2026,52.52111284046197,0.9179999999999993,null,null,null,376.418,601.3465714285715,null,801.3465714285715,901.3465714285715
+date,P_Kweek_5_Kday_0_ETE_45_ORD_47_EXT_52_E2Ekor_56_EXTkor_50_DIFF_24,a,b,c,d,e,f,g,h,i,j
 Thu Jul 02 07:00:00 UTC 2026,64.918,0.9179999999999993,null,null,null,358.71799999999996,588.6322857142857,null,788.6322857142857,888.6322857142857
 Thu Jul 02 08:00:00 UTC 2026,63.54056809339147,-24.081999999999994,null,null,null,341.01800000000003,575.918,null,775.918,875.918
 Thu Jul 02 09:00:00 UTC 2026,40.124225680939276,3.9179999999999993,null,null,null,323.31800000000004,null,null,null,null
@@ -95,7 +94,7 @@ Mon Jul 06 02:00:00 UTC 2026,-149.96137743191065,46.918,null,null,null,null,null
 Mon Jul 06 03:00:00 UTC 2026,-89.35437354085971,51.918,null,null,null,null,null,null,null,null
 Mon Jul 06 04:00:00 UTC 2026,-111.39328404668808,38.918,null,null,null,null,null,null,null,null
 Mon Jul 06 05:00:00 UTC 2026,-76.9574863813217,35.918,null,null,null,null,null,null,null,null
-Mon Jul 06 06:00:00 UTC 2026,0.55701,-48.081999999999994,null,null,null,null,null,null,null,null,null,null
+Mon Jul 06 06:00:00 UTC 2026,-76.9574863813217,-48.081999999999994,null,null,null,null,null,null,null,null
 Mon Jul 06 07:00:00 UTC 2026,0.55701,-56.081999999999994,null,null,null,null,null,null,null,null,null,null
 Mon Jul 06 08:00:00 UTC 2026,0.55701,-58.081999999999994,null,null,null,null,null,null,null,null,null,null
 Mon Jul 06 09:00:00 UTC 2026,0.55701,-76.082,null,null,null,null,null,null,null,null,null,null
