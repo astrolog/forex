@@ -1,5 +1,4 @@
-date,P_Kweek_76_Kday_3_ETE_17_ORD_18_EXT_20_E2Ekor_98_EXTkor_73_DIFF_1,a,b,c,d,e,f,g,h,i,j
-Sat Jul 04 04:00:00 UTC 2026,131.91122795034642,87.03,null,null,null,null,null,797.2107228915662,null,997.2107228915662
+date,P_Kweek_75_Kday_-8_ETE_17_ORD_18_EXT_20_E2Ekor_98_EXTkor_73_DIFF_1,a,b,c,d,e,f,g,h,i,j
 Sat Jul 04 05:00:00 UTC 2026,135.53227154521556,87.03,null,null,null,null,null,797.0540963855422,null,997.0540963855422
 Sat Jul 04 06:00:00 UTC 2026,137.20600245640262,87.03,null,null,null,null,null,796.8974698795181,null,996.8974698795181
 Sat Jul 04 07:00:00 UTC 2026,137.79369663435457,87.03,null,null,null,null,null,796.7408433734938,null,996.7408433734938
@@ -95,7 +94,7 @@ Wed Jul 08 10:00:00 UTC 2026,227.70537895640567,87.03,null,null,null,null,null,n
 Wed Jul 08 11:00:00 UTC 2026,225.65397623806916,87.03,null,null,null,null,null,null,null,1133.2780818414321
 Wed Jul 08 12:00:00 UTC 2026,227.9319820406927,87.03,null,null,null,null,null,null,null,1133.2363086104008
 Wed Jul 08 13:00:00 UTC 2026,228.90011147803978,87.03,null,null,null,null,null,null,null,1133.1945353793692
-Wed Jul 08 14:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1133.1527621483376
+Wed Jul 08 14:00:00 UTC 2026,228.90011147803978,87.03,null,null,null,null,null,null,null,1133.1527621483376
 Wed Jul 08 15:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1133.110988917306
 Wed Jul 08 16:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1133.0692156862744
 Wed Jul 08 17:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1133.0274424552429
@@ -767,3 +766,4 @@ Wed Aug 05 10:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,
 Wed Aug 05 11:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1105.2064705882353
 Wed Aug 05 12:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1105.1646973572037
 Wed Aug 05 13:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1105.1229241261722
+Wed Aug 05 14:00:00 UTC 2026,162.36257,87.03,null,null,null,null,null,null,null,null,null,1105.0811508951406
