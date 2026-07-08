@@ -1,5 +1,4 @@
 date,P_Kweek_69_Kday_-35_ETE_46_ORD_46_EXT_49_E2Ekor_58_EXTkor_50_DIFF_24,a,b,c,d,e,f,g,h,i,j
-Sat Jul 04 04:00:00 UTC 2026,1411.8033546326806,1.650000000000091,null,null,null,749.236206896552,null,null,null,null
 Sat Jul 04 05:00:00 UTC 2026,1205.8960063897673,1.650000000000091,null,null,null,740.546551724138,null,null,null,null
 Sat Jul 04 06:00:00 UTC 2026,1623.9503194889146,1.650000000000091,null,null,null,731.8568965517242,null,null,null,null
 Sat Jul 04 07:00:00 UTC 2026,1330.6883386582626,1.650000000000091,null,null,null,723.1672413793106,null,null,null,null
@@ -95,7 +94,7 @@ Wed Jul 08 10:00:00 UTC 2026,5642.263418530445,1283.65,null,null,null,3982.64999
 Wed Jul 08 11:00:00 UTC 2026,5835.69153354644,1204.65,null,null,null,3848.65,null,null,null,null
 Wed Jul 08 12:00:00 UTC 2026,5860.65,1146.65,null,null,null,3714.65,null,null,null,null
 Wed Jul 08 13:00:00 UTC 2026,5704.659584664623,1090.65,null,null,null,3580.6499999999996,null,null,null,null
-Wed Jul 08 14:00:00 UTC 2026,1.07993,964.6500000000001,null,null,null,null,3446.6499999999996,null,null,null,null,null
+Wed Jul 08 14:00:00 UTC 2026,5704.659584664623,964.6500000000001,null,null,null,3446.6499999999996,null,null,null,null
 Wed Jul 08 15:00:00 UTC 2026,1.07993,838.6500000000001,null,null,null,null,3312.65,null,1438.65,null,1638.65,null
 Wed Jul 08 16:00:00 UTC 2026,1.07993,1011.6500000000001,null,null,null,null,3178.6499999999996,null,1574.15,null,1774.15,null
 Wed Jul 08 17:00:00 UTC 2026,1.07993,1109.65,null,null,null,null,3044.65,null,1709.65,null,1909.65,null
@@ -767,3 +766,4 @@ Wed Aug 05 10:00:00 UTC 2026,1.07993,-915.35,null,null,null,null,null,null,null,
 Wed Aug 05 11:00:00 UTC 2026,1.07993,-832.3499999999999,null,null,null,null,null,null,null,null,null,null
 Wed Aug 05 12:00:00 UTC 2026,1.07993,-789.3499999999999,null,null,null,null,null,null,null,null,null,null
 Wed Aug 05 13:00:00 UTC 2026,1.07993,-864.3499999999999,null,null,null,null,null,null,null,null,null,null
+Wed Aug 05 14:00:00 UTC 2026,1.07993,-641.3499999999999,null,null,null,null,null,null,null,null,null,null
