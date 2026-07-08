@@ -1,5 +1,4 @@
 date,P_Kweek_72_Kday_0_ETE_17_ORD_18_EXT_20_E2Ekor_98_EXTkor_73_DIFF_1,a,b,c,d,e,f,g,h,i,j
-Sat Jul 04 09:00:00 UTC 2026,138.18242225048934,87.03,null,null,null,null,null,796.4275903614458,null,996.4275903614457
 Sat Jul 04 10:00:00 UTC 2026,138.18610685348708,87.03,null,null,null,null,null,796.2709638554215,null,996.2709638554215
 Sat Jul 04 11:00:00 UTC 2026,138.66510524304005,87.03,null,null,null,null,null,796.1143373493976,null,996.1143373493976
 Sat Jul 04 12:00:00 UTC 2026,138.64576107730718,87.03,null,null,null,null,null,795.9577108433735,null,995.9577108433734
@@ -95,7 +94,7 @@ Wed Jul 08 15:00:00 UTC 2026,230.3813218826557,87.03,null,null,null,null,null,nu
 Wed Jul 08 16:00:00 UTC 2026,225.90545039258564,87.03,null,null,null,null,null,null,null,1133.0705788876276
 Wed Jul 08 17:00:00 UTC 2026,213.78863343839873,87.03,null,null,null,null,null,null,null,1133.02886492622
 Wed Jul 08 18:00:00 UTC 2026,214.2952663504268,87.03,null,null,null,null,null,null,null,1132.9871509648126
-Wed Jul 08 19:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1132.9454370034052
+Wed Jul 08 19:00:00 UTC 2026,214.2952663504268,87.03,null,null,null,null,null,null,null,1132.9454370034052
 Wed Jul 08 20:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1132.9037230419979
 Wed Jul 08 21:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1132.8620090805903
 Wed Jul 08 22:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1132.820295119183
@@ -767,3 +766,4 @@ Wed Aug 05 15:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,
 Wed Aug 05 16:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1105.0387968217933
 Wed Aug 05 17:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1104.997082860386
 Wed Aug 05 18:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1104.9553688989786
+Wed Aug 05 19:00:00 UTC 2026,162.20402,87.03,null,null,null,null,null,null,null,null,null,1104.913654937571
