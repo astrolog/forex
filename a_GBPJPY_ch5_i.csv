@@ -1,5 +1,4 @@
-date,P_Kweek_49_Kday_77_ETE_56_ORD_54_EXT_57_E2Ekor_56_EXTkor_57_DIFF_30,a,b,c,d,e,f,g,h,i,j
-Sun Jul 05 00:00:00 UTC 2026,-190.2966160509436,143.10500000000002,null,null,null,102.63691489361702,null,null,null,null
+date,P_Kweek_50_Kday_77_ETE_56_ORD_54_EXT_57_E2Ekor_56_EXTkor_57_DIFF_30,a,b,c,d,e,f,g,h,i,j
 Sun Jul 05 01:00:00 UTC 2026,-209.1220688533457,143.10500000000002,null,null,null,88.10500000000002,null,null,null,null
 Sun Jul 05 02:00:00 UTC 2026,-210.1380068134332,143.10500000000002,null,null,null,73.57308510638302,null,null,null,null
 Sun Jul 05 03:00:00 UTC 2026,-225.5851598931722,143.10500000000002,null,null,null,59.04117021276602,null,null,null,null
@@ -95,7 +94,7 @@ Thu Jul 09 06:00:00 UTC 2026,2580.105,2377.105,2633.2716666666665,null,null,null
 Thu Jul 09 07:00:00 UTC 2026,2560.532893997994,2580.105,2680.105,null,null,null,3180.105,null,3380.105,null
 Thu Jul 09 08:00:00 UTC 2026,2511.7678719142496,2534.105,null,null,null,null,null,null,null,null
 Thu Jul 09 09:00:00 UTC 2026,2484.839395863998,2444.105,null,null,null,null,null,null,null,null
-Thu Jul 09 10:00:00 UTC 2026,217.69602,2392.105,null,null,null,null,null,null,null,null,null,null
+Thu Jul 09 10:00:00 UTC 2026,2484.839395863998,2392.105,null,null,null,null,null,null,null,null
 Thu Jul 09 11:00:00 UTC 2026,217.69602,2348.105,null,null,null,null,null,null,null,null,null,null
 Thu Jul 09 12:00:00 UTC 2026,217.69602,2267.105,null,null,null,null,null,null,null,null,null,null
 Thu Jul 09 13:00:00 UTC 2026,217.69602,2277.105,null,null,null,null,null,null,null,null,null,null
@@ -767,3 +766,4 @@ Thu Aug 06 06:00:00 UTC 2026,217.69602,2272.105,null,null,null,null,null,null,28
 Thu Aug 06 07:00:00 UTC 2026,217.69602,2334.105,null,null,null,null,null,null,2891.7716666666665,null,null,null
 Thu Aug 06 08:00:00 UTC 2026,217.69602,2363.105,null,null,null,null,null,null,2963.105,3063.105,null,null
 Thu Aug 06 09:00:00 UTC 2026,217.69602,2173.105,null,null,null,null,null,null,null,3011.205,null,null
+Thu Aug 06 10:00:00 UTC 2026,217.69602,2233.105,null,null,null,null,null,null,null,2959.305,null,null
