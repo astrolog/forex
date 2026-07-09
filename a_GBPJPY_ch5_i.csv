@@ -1,5 +1,4 @@
-date,P_Kweek_55_Kday_81_ETE_54_ORD_53_EXT_55_E2Ekor_57_EXTkor_56_DIFF_29,a,b,c,d,e,f,g,h,i,j
-Sun Jul 05 04:00:00 UTC 2026,225.99701218886833,143.10500000000002,null,null,null,238.0825280898877,null,null,null,null
+date,P_Kweek_57_Kday_83_ETE_54_ORD_53_EXT_55_E2Ekor_57_EXTkor_56_DIFF_29,a,b,c,d,e,f,g,h,i,j
 Sun Jul 05 05:00:00 UTC 2026,228.1125118978331,143.10500000000002,null,null,null,227.4420786516854,null,null,null,null
 Sun Jul 05 06:00:00 UTC 2026,233.39460865547233,143.10500000000002,null,null,null,216.80162921348318,null,null,null,null
 Sun Jul 05 07:00:00 UTC 2026,231.35893912419237,143.10500000000002,null,null,null,206.1611797752809,null,null,null,null
@@ -95,7 +94,7 @@ Thu Jul 09 10:00:00 UTC 2026,3235.8475069332735,2961.105,null,null,null,3462.505
 Thu Jul 09 11:00:00 UTC 2026,3112.190561680425,2974.105,null,null,null,3380.3050000000003,null,null,null,3880.3050000000003
 Thu Jul 09 12:00:00 UTC 2026,3104.3139841476377,2898.105,null,null,null,3298.105,null,null,null,3798.105
 Thu Jul 09 13:00:00 UTC 2026,3134.197080665589,2910.105,null,null,null,null,null,null,null,null
-Thu Jul 09 14:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
+Thu Jul 09 14:00:00 UTC 2026,3134.197080665589,2910.105,null,null,null,null,null,null,null,null
 Thu Jul 09 15:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
 Thu Jul 09 16:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
 Thu Jul 09 17:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
@@ -767,3 +766,4 @@ Thu Aug 06 10:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,nu
 Thu Aug 06 11:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
 Thu Aug 06 12:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
 Thu Aug 06 13:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
+Thu Aug 06 14:00:00 UTC 2026,217.64239,2910.105,null,null,null,null,null,null,null,null,null,null
