@@ -1,5 +1,4 @@
-date,P_Kweek_46_Kday_-24_ETE_49_ORD_53_EXT_45_E2Ekor_53_EXTkor_45_DIFF_29,a,b,c,d,e,f,g,h,i,j
-Mon Jul 06 03:00:00 UTC 2026,130.59024657809962,130.79,229.93150943396228,null,null,529.9315094339622,null,null,null,null
+date,P_Kweek_46_Kday_-10_ETE_49_ORD_53_EXT_45_E2Ekor_53_EXTkor_45_DIFF_29,a,b,c,d,e,f,g,h,i,j
 Mon Jul 06 04:00:00 UTC 2026,130.59427234299514,130.79,229.8843396226415,null,null,529.8843396226414,null,null,null,null
 Mon Jul 06 05:00:00 UTC 2026,130.07067129629635,129.79,229.83716981132076,null,null,529.8371698113207,null,null,null,null
 Mon Jul 06 06:00:00 UTC 2026,130.5548953301127,129.79,229.79,329.78999999999996,null,529.79,null,null,null,null
@@ -95,7 +94,7 @@ Fri Jul 10 09:00:00 UTC 2026,143.88168679549102,135.79,null,null,null,null,735.4
 Fri Jul 10 10:00:00 UTC 2026,144.0253562801933,135.79,null,null,null,null,735.79,835.79,935.79,null
 Fri Jul 10 11:00:00 UTC 2026,139.7362811996778,134.79,null,null,null,null,null,null,null,null
 Fri Jul 10 12:00:00 UTC 2026,137.95475442834143,133.79,null,null,null,null,null,null,null,null
-Fri Jul 10 13:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
+Fri Jul 10 13:00:00 UTC 2026,137.95475442834143,133.79,null,null,null,null,null,null,null,null
 Fri Jul 10 14:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
 Fri Jul 10 15:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
 Fri Jul 10 16:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
@@ -767,3 +766,4 @@ Fri Aug 07 09:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null
 Fri Aug 07 10:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
 Fri Aug 07 11:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
 Fri Aug 07 12:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
+Fri Aug 07 13:00:00 UTC 2026,185.16379,133.79,null,null,null,null,null,null,null,null,null,null
