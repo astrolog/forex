@@ -1,5 +1,4 @@
-date,P_Kweek_22_Kday_0_ETE_16_ORD_18_EXT_20_E2Ekor_98_EXTkor_71_DIFF_1,a,b,c,d,e,f,g,h,i,j
-Sun Jul 05 23:00:00 UTC 2026,95.26713765366642,87.03,null,null,null,null,null,790.4757831325302,null,990.4757831325302
+date,P_Kweek_19_Kday_0_ETE_16_ORD_18_EXT_20_E2Ekor_98_EXTkor_71_DIFF_1,a,b,c,d,e,f,g,h,i,j
 Mon Jul 06 00:00:00 UTC 2026,87.03,87.03,null,null,null,null,null,790.3191566265059,null,990.3191566265059
 Mon Jul 06 01:00:00 UTC 2026,129.1232235544087,87.03,null,null,null,null,null,790.1625301204818,null,990.162530120482
 Mon Jul 06 02:00:00 UTC 2026,94.3739444528768,87.03,null,null,null,null,null,790.0059036144579,null,990.0059036144579
@@ -95,7 +94,7 @@ Fri Jul 10 05:00:00 UTC 2026,207.87561390195805,87.03,null,null,null,null,null,n
 Fri Jul 10 06:00:00 UTC 2026,213.01247078464132,87.03,null,null,null,null,null,null,null,1131.5125940482876
 Fri Jul 10 07:00:00 UTC 2026,212.4881878889049,87.03,null,null,null,null,null,null,null,1131.4713250982595
 Fri Jul 10 08:00:00 UTC 2026,211.79578388222697,87.03,null,null,null,null,null,null,null,1131.4300561482312
-Fri Jul 10 09:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1131.3887871982033
+Fri Jul 10 09:00:00 UTC 2026,211.79578388222697,87.03,null,null,null,null,null,null,null,1131.3887871982033
 Fri Jul 10 10:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1131.347518248175
 Fri Jul 10 11:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1131.306249298147
 Fri Jul 10 12:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1131.264980348119
@@ -767,3 +766,4 @@ Fri Aug 07 05:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,n
 Fri Aug 07 06:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1103.7798596294215
 Fri Aug 07 07:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1103.7385906793936
 Fri Aug 07 08:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1103.6973217293655
+Fri Aug 07 09:00:00 UTC 2026,162.3883,87.03,null,null,null,null,null,null,null,null,null,1103.6560527793374
