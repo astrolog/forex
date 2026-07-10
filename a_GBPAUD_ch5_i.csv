@@ -1,5 +1,4 @@
-date,P_Kweek_-42_Kday_27_ETE_43_ORD_50_EXT_43_E2Ekor_47_EXTkor_45_DIFF_28,a,b,c,d,e,f,g,h,i,j
-Sun Jul 05 18:00:00 UTC 2026,-11.488727809694547,1.7967300000000002,101.45710735849056,null,301.4571073584906,null,601.6300633333334,701.6300633333334,null,null
+date,P_Kweek_-42_Kday_32_ETE_43_ORD_50_EXT_43_E2Ekor_47_EXTkor_45_DIFF_28,a,b,c,d,e,f,g,h,i,j
 Sun Jul 05 19:00:00 UTC 2026,-12.819068922800358,1.7967300000000002,101.62691867924528,null,301.6269186792453,null,601.7133966666667,701.7133966666667,null,null
 Sun Jul 05 20:00:00 UTC 2026,-14.126070718132748,1.7967300000000002,101.79673,null,301.79673,null,601.79673,701.79673,null,null
 Sun Jul 05 21:00:00 UTC 2026,-14.126070718132748,-7.20327,null,null,null,null,null,null,null,null
@@ -95,7 +94,7 @@ Fri Jul 10 00:00:00 UTC 2026,1.9547192280072174,-13.20327,null,null,null,null,nu
 Fri Jul 10 01:00:00 UTC 2026,-0.2158373249552774,-13.20327,null,null,null,null,null,null,null,null
 Fri Jul 10 02:00:00 UTC 2026,0.9744678815079233,-12.20327,null,null,null,null,null,null,null,null
 Fri Jul 10 03:00:00 UTC 2026,3.9152219210052834,-13.20327,null,null,null,null,null,null,null,null
-Fri Jul 10 04:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
+Fri Jul 10 04:00:00 UTC 2026,3.9152219210052834,-13.20327,null,null,null,null,null,null,null,null
 Fri Jul 10 05:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
 Fri Jul 10 06:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
 Fri Jul 10 07:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
@@ -767,3 +766,4 @@ Fri Aug 07 00:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,nul
 Fri Aug 07 01:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
 Fri Aug 07 02:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
 Fri Aug 07 03:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
+Fri Aug 07 04:00:00 UTC 2026,1.93187,-13.20327,null,null,null,null,null,null,null,null,null,null
