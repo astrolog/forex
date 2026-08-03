@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Thu Jul 30 10:00:00 UTC 2026,7.84226,7.7494,null,207.74940000000004,null,null,null,707.7494000000002,null,null
 Thu Jul 30 11:00:00 UTC 2026,7.84236,7.7494,null,207.7494,null,null,null,707.7494,null,null
 Thu Jul 30 12:00:00 UTC 2026,7.84334,7.7494,null,207.7494,null,null,null,707.7494,null,null
 Thu Jul 30 13:00:00 UTC 2026,7.84339,7.7494,null,207.7494,null,null,null,707.7494000000002,null,null
@@ -95,7 +94,7 @@ Mon Aug 03 06:00:00 UTC 2026,7.84176,7.7494,null,207.7494,null,null,null,707.749
 Mon Aug 03 07:00:00 UTC 2026,7.84365,7.7494,null,207.7494,null,null,null,707.7494,null,null
 Mon Aug 03 08:00:00 UTC 2026,7.84244,7.7494,null,207.74940000000004,null,null,null,707.7494,null,null
 Mon Aug 03 09:00:00 UTC 2026,7.8422,7.7494,null,207.7494,null,null,null,707.7494,null,null
-Mon Aug 03 10:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494,null,null
+Mon Aug 03 10:00:00 UTC 2026,7.8422,7.7494,null,207.7494,null,null,null,707.7494,null,null
 Mon Aug 03 11:00:00 UTC 2026,7.8422,7.7494,null,null,207.74940000000004,null,null,null,null,707.7494,null,null
 Mon Aug 03 12:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494,null,null
 Mon Aug 03 13:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494,null,null
@@ -767,3 +766,4 @@ Mon Aug 31 06:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,nul
 Mon Aug 31 07:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494000000002,null,null
 Mon Aug 31 08:00:00 UTC 2026,7.8422,7.7494,null,null,207.74939999999998,null,null,null,null,707.7494,null,null
 Mon Aug 31 09:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494,null,null
+Mon Aug 31 10:00:00 UTC 2026,7.8422,7.7494,null,null,207.7494,null,null,null,null,707.7494000000002,null,null
