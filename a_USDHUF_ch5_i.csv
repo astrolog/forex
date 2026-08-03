@@ -1,5 +1,4 @@
 date,P_Kweek_0_Kday_0_ETE_0_ORD_0_EXT_0_E2Ekor_0_EXTkor_0_DIFF_0,a,b,c,d,e,f,g,h,i,j
-Thu Jul 30 09:00:00 UTC 2026,316.72691,182.046,null,382.046,null,null,null,882.046,null,null
 Thu Jul 30 10:00:00 UTC 2026,317.06699,182.046,null,382.046,null,null,null,882.0460000000002,null,null
 Thu Jul 30 11:00:00 UTC 2026,317.3541,182.046,null,382.046,null,null,null,882.046,null,null
 Thu Jul 30 12:00:00 UTC 2026,317.11369,182.046,null,382.046,null,null,null,882.046,null,null
@@ -95,7 +94,7 @@ Mon Aug 03 05:00:00 UTC 2026,316.5606,182.046,null,382.046,null,null,null,882.04
 Mon Aug 03 06:00:00 UTC 2026,316.13417,182.046,null,382.04599999999994,null,null,null,882.046,null,null
 Mon Aug 03 07:00:00 UTC 2026,315.62709,182.046,null,382.046,null,null,null,882.046,null,null
 Mon Aug 03 08:00:00 UTC 2026,315.12627,182.046,null,382.046,null,null,null,882.046,null,null
-Mon Aug 03 09:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,null,882.046,null,null
+Mon Aug 03 09:00:00 UTC 2026,315.12627,182.046,null,382.046,null,null,null,882.046,null,null
 Mon Aug 03 10:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,null,882.046,null,null
 Mon Aug 03 11:00:00 UTC 2026,315.12627,182.046,null,null,382.04599999999994,null,null,null,null,882.046,null,null
 Mon Aug 03 12:00:00 UTC 2026,315.12627,182.046,null,null,382.04599999999994,null,null,null,null,882.046,null,null
@@ -767,3 +766,4 @@ Mon Aug 31 05:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,
 Mon Aug 31 06:00:00 UTC 2026,315.12627,182.046,null,null,382.04599999999994,null,null,null,null,882.046,null,null
 Mon Aug 31 07:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,null,882.046,null,null
 Mon Aug 31 08:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,null,882.0459999999999,null,null
+Mon Aug 31 09:00:00 UTC 2026,315.12627,182.046,null,null,382.046,null,null,null,null,882.0459999999999,null,null
