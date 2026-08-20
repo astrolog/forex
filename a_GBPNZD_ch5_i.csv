@@ -1,9 +1,4 @@
-date,P_Kweek_28_Kday_62_ETE_58_ORD_57_EXT_66_E2Ekor_68_EXTkor_59_DIFF_22,a,b,c,d,e,f,g,h,i,j
-Sun Aug 16 14:00:00 UTC 2026,-389.086484052221,2.2845199999999295,null,null,null,null,null,null,null,536.48452
-Sun Aug 16 15:00:00 UTC 2026,-390.71277851418574,2.2845199999999295,null,null,null,null,null,null,null,527.2845199999999
-Sun Aug 16 16:00:00 UTC 2026,-388.6799104367298,2.2845199999999295,null,null,null,null,null,null,null,518.0845199999999
-Sun Aug 16 17:00:00 UTC 2026,-383.8010270508717,2.2845199999999295,null,null,null,null,null,null,null,508.8845199999999
-Sun Aug 16 18:00:00 UTC 2026,-392.33907297613246,2.2845199999999295,null,null,null,null,null,null,null,499.6845199999999
+date,P_Kweek_23_Kday_54_ETE_58_ORD_57_EXT_66_E2Ekor_68_EXTkor_59_DIFF_22,a,b,c,d,e,f,g,h,i,j
 Sun Aug 16 19:00:00 UTC 2026,-390.71277851418574,2.2845199999999295,null,null,null,null,null,null,null,490.4845199999999
 Sun Aug 16 20:00:00 UTC 2026,-389.49305766771215,2.2845199999999295,null,null,null,null,null,null,null,481.2845199999999
 Sun Aug 16 21:00:00 UTC 2026,-388.6799104367298,45.28451999999993,null,null,null,null,null,null,null,472.08451999999994
@@ -95,11 +90,11 @@ Thu Aug 20 10:00:00 UTC 2026,-604.5705002611408,-646.71548,null,null,null,null,n
 Thu Aug 20 11:00:00 UTC 2026,-613.921693417384,-637.71548,null,null,null,null,null,null,null,232.79614790697673
 Thu Aug 20 12:00:00 UTC 2026,-726.1360112922107,-655.71548,null,null,null,null,null,null,null,229.191496744186
 Thu Aug 20 13:00:00 UTC 2026,-786.7154800000001,-645.71548,null,null,null,null,null,null,null,225.58684558139532
-Thu Aug 20 14:00:00 UTC 2026,2.28694,-674.71548,null,null,null,null,null,null,null,null,null,221.98219441860465
-Thu Aug 20 15:00:00 UTC 2026,2.28694,-726.71548,null,null,null,null,null,null,null,null,null,218.37754325581392
-Thu Aug 20 16:00:00 UTC 2026,2.28694,-720.71548,null,null,null,null,null,null,null,null,null,214.77289209302324
-Thu Aug 20 17:00:00 UTC 2026,2.28694,-715.71548,null,null,null,null,null,null,null,null,null,211.16824093023254
-Thu Aug 20 18:00:00 UTC 2026,2.28694,-709.71548,null,null,null,null,null,null,null,null,null,207.56358976744184
+Thu Aug 20 14:00:00 UTC 2026,-786.7154800000001,-674.71548,null,null,null,null,null,null,null,221.98219441860465
+Thu Aug 20 15:00:00 UTC 2026,-786.7154800000001,-726.71548,null,null,null,null,null,null,null,218.37754325581392
+Thu Aug 20 16:00:00 UTC 2026,-786.7154800000001,-720.71548,null,null,null,null,null,null,null,214.77289209302324
+Thu Aug 20 17:00:00 UTC 2026,-786.7154800000001,-715.71548,null,null,null,null,null,null,null,211.16824093023254
+Thu Aug 20 18:00:00 UTC 2026,-786.7154800000001,-709.71548,null,null,null,null,null,null,null,207.56358976744184
 Thu Aug 20 19:00:00 UTC 2026,2.28694,-733.71548,null,null,null,null,null,null,null,null,null,203.9589386046511
 Thu Aug 20 20:00:00 UTC 2026,2.28694,-711.71548,null,null,null,null,null,null,null,null,null,200.35428744186044
 Thu Aug 20 21:00:00 UTC 2026,2.28694,-710.71548,null,null,null,null,null,null,null,null,null,196.74963627906973
@@ -767,3 +762,8 @@ Thu Sep 17 10:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-
 Thu Sep 17 11:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-118.04420928176795,null,null,null
 Thu Sep 17 12:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-118.27141922651933,null,null,null
 Thu Sep 17 13:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-118.4986291712707,null,null,null
+Thu Sep 17 14:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-118.72583911602209,null,null,null
+Thu Sep 17 15:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-118.95304906077347,null,null,null
+Thu Sep 17 16:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-119.18025900552483,null,null,null
+Thu Sep 17 17:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-119.40746895027621,null,null,null
+Thu Sep 17 18:00:00 UTC 2026,2.28694,-1249.71548,null,null,null,null,null,null,-119.63467889502762,null,null,null
